@@ -1,0 +1,335 @@
+body {
+  background: black;
+  font-size: 1.9ch;
+}
+
+main {
+  max-width: 70ch;
+  padding: 2ch;
+  margin: auto;
+}
+
+h1 {
+  font-size: 2.2ch;
+  margin: 0 10px;
+  padding: 8px;
+  font-weight: 500;
+}
+
+main > div {
+  margin-bottom: 40px;
+}
+main > div:nth-child(5n) {
+  margin-left: -18px;
+  margin-right: 18px;
+}
+main > div:nth-child(5n+1) {
+  margin-left: 18px;
+  margin-right: -18px;
+}
+main > div:nth-child(5n+2) {
+  margin-left: -32px;
+  margin-right: 32px;
+}
+main > div:nth-child(5n+3) {
+  margin-left: -8px;
+  margin-right: 8px;
+}
+main > div:nth-child(5n+4) {
+  margin-left: -38px;
+  margin-right: 38px;
+}
+
+div.hypertext {
+  margin: 20px;
+}
+
+.by-kickscondor-com {
+  font-family: "Times New Roman", serif;
+  background-color: #412;
+  color: #ffe;
+  border: solid 1px #f16;
+  box-shadow: 5px 4px 0 0 #f16;
+}
+
+.by-kickscondor-com a {
+  color: #ccf;
+}
+
+.by-kickscondor-com a:hover {
+  color: #ff6;
+}
+
+.by-kickscondor-com h1 {
+  font-size: 20px;
+  color: #fff;
+  padding: 0;
+  font-weight: bold;
+  margin: 20px;
+  text-shadow: 2px 2px #f09;
+}
+
+.by-kickscondor-com h1 > img {
+  width: 32px;
+  border-radius: 8px;
+  margin-left: -35px;
+  margin-bottom: -8px;
+  margin-right: 8px;
+}
+
+.by-kickscondor-com hr {
+  border: none;
+  background: url("/images/pixelb.png") repeat-x;
+  width: 100%;
+  height: 8px;
+  padding: 8px 0;
+}
+.by-kickscondor-com img.emoji {
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+}
+.by-kickscondor-com sup,
+.by-kickscondor-com sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+.by-kickscondor-com sub {
+  top: 0.4em;
+}
+.by-kickscondor-com dl {
+  margin: 0 0 25px 0;
+}
+.by-kickscondor-com dd {
+  margin: 0 0 25px 25px;
+}
+.by-kickscondor-com s {
+  text-decoration: none;
+  background-image: linear-gradient(transparent 7px, #316 7px, #316 13px, transparent 13px);
+}
+
+.by-kickscondor-com p {
+  line-height: 140%;
+  margin: 0 0 20px 0;
+}
+.by-kickscondor-com p:last-of-type {
+  margin-bottom: 0;
+}
+.by-kickscondor-com ul {
+  padding: 4px;
+  margin: 0 0 20px 0;
+}
+.by-kickscondor-com li {
+  margin: 0 0 0 20px;
+}
+.by-kickscondor-com blockquote {
+  font-size: 16px;
+  background-color: #fcfff4;
+  padding: 14px;
+  margin: 20px;
+  border: solid 1px #ccb;
+  box-shadow: 4px 3px 0 0 #ccb;
+}
+.by-kickscondor-com p.rt,
+.by-kickscondor-com a.rt,
+.by-kickscondor-com img.rt,
+.by-kickscondor-com p.rt100 {
+  float: right;
+  margin: 0 0 6px 16px;
+}
+.by-kickscondor-com p.rt100 {
+  width: 100px;
+  height: 100px;
+}
+.by-kickscondor-com p.lt,
+.by-kickscondor-com a.lt,
+.by-kickscondor-com img.lt {
+  float: left;
+  margin: 0 16px 6px 0;
+}
+.by-kickscondor-com p.ct {
+  text-align: center;
+}
+.by-kickscondor-com a.ct > img,
+.by-kickscondor-com img.ct {
+  display: block;
+  margin: 0 auto;
+}
+
+/* my cursive font - since there isn't one on most platforms */
+/* https://www.dafont.com/ballet-harmony.font */
+@font-face {
+  font-family: BalletHarmony; 
+  src: local("Ballet Harmony"),
+       url('/fonts/balletharmony.ttf');
+}
+
+.tc-btn-invisible {
+  padding: 0;
+  margin: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* styles for specific people */
+@font-face {
+  font-family: 'Zing';
+  src: url('/fonts/zing.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: extra-condensed;
+  unicode-range: U+000D-1F41B;
+}
+.by-philosopher-life {
+  border: 1px solid #3b3333 !important;
+  background-color: black !important;
+  border-radius: 2px !important;
+  color: white !important;
+  font-family: 'Zing', sans-serif !important;
+}
+.by-philosopher-life > h1 {
+  background: black;
+  display: inline-block;
+  border: 1px solid #3b3333 !important;
+  margin-left: -25px;
+  margin-top: -25px;
+}
+.by-philosopher-life > h1 > span {
+  color: #66ff66;
+}
+.by-philosopher-life .hypertext {
+}
+.by-philosopher-life sup {
+  top: -0.5em;
+}
+.by-philosopher-life a {
+  color: #02A1D6 !important;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Asap Regular'), local('Asap-Regular'), url(/fonts/asap-ext-400.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Asap Regular'), local('Asap-Regular'), url(/fonts/asap-400.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Fira Sans Condensed Italic'), local('FiraSansCondensed-Italic'), url(/fonts/fira-sans-ext-400.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Fira Sans Condensed Italic'), local('FiraSansCondensed-Italic'), url(/fonts/fira-sans-400.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+.by-sphygm-us {
+  border: solid 1px #2A2B30 !important;
+  background-color: #2A2B30 !important;
+  font-family: 'Asap', sans-serif !important;
+  color: rgba(255,255,255,0.87) !important;
+  box-shadow: 5px 4px 0 0 #b37aff;
+}
+.by-sphygm-us .hypertext {
+}
+.by-sphygm-us h1,
+.by-sphygm-us h2,
+.by-sphygm-us h3,
+.by-sphygm-us h4,
+.by-sphygm-us h5,
+.by-sphygm-us h5 {
+  font-family: 'Fira Sans Condensed', sans-serif, 'Segoe UI Symbol';
+  font-weight: 300;
+}
+.by-sphygm-us h1 {
+  background-color: #2f3137;
+  color: #b37aff;
+	margin: 0;
+  padding: 8px;
+}
+.by-sphygm-us h1 > img {
+  width: 1em;
+  margin-bottom: -3px;
+}
+.by-sphygm-us a {
+  color: #00ccf0 !important;
+}
+.by-sphygm-us blockquote {
+  background: hsla(231, 8%, 10%, 1);
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-right: 5px;
+  border-left: 5px solid rgba(255,255,255,0.5);
+  margin-left: 25px;
+  padding-left: 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+.by-sphygm-us hr {
+  border-color: #ededed;
+  border-bottom-width: 1.5px;
+  border-style: solid;
+  box-sizing: content-box;
+  height: 0;
+}
+
+.by-wiki-waifu-haus {
+  border: 1px solid #fff;
+  background-color: rgba(0,0,0,1) !important;
+  color: #fff !important;
+  font-family: "Go",-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  box-shadow: 5px 4px 0 0 #ccc;
+}
+.by-wiki-waifu-haus .hypertext {
+}
+.by-wiki-waifu-haus h1 {
+  font-weight: 300;
+  font-size: 2.8ch;
+}
+.by-wiki-waifu-haus h1 > img {
+  margin-bottom: -8px;
+}
+.by-wiki-waifu-haus a.tc-tiddlylink {
+  font-weight: 500;
+  color: #34b550;
+  text-decoration: none;
+}
+.by-wiki-waifu-haus a.tc-tiddlylink-external {
+  color: #00ffff;
+}
+.by-wiki-waifu-haus a:hover {
+  text-decoration: underline !important;
+}
+.by-wiki-waifu-haus strong {
+  color: red;
+}
+.by-wiki-waifu-haus blockquote {
+  border-left: 5px solid #fff;
+  margin-left: 25px;
+  padding-left: 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+.by-wiki-waifu-haus code {
+  color: #fff;
+  background-color: #000;
+  border: 1px solid #fff;
+  white-space: pre-wrap;
+  padding: 0 3px 2px;
+  border-radius: 3px;
+  font-family: "Go Mono","SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+}
