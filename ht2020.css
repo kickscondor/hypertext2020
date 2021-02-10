@@ -3,10 +3,72 @@ body {
   font-size: 1.9ch;
 }
 
+div.front {
+  text-align: center;
+  margin: 220px auto;
+  width: 500px;
+  height: 500px;
+}
+
 main {
-  max-width: 70ch;
+  display: none;
+  margin: 0px auto;
+  opacity: 0;
+}
+
+div.blow {
+  width: 0px;
+  height: 0px;
+  opacity: 0;
+  transition: width 2s, height 2s, opacity 2s;
+}
+
+main, div.thread {
+  width: 70ch;
   padding: 2ch;
-  margin: auto;
+}
+
+main.appear {
+  display: block;
+  opacity: 1;
+  transition: opacity 2s;
+}
+
+header,
+footer {
+  position: fixed;
+  width: 100%;
+  height: 320px;
+  left: 0;
+  pointer-events: none;
+}
+
+header > div,
+footer > div {
+  position: absolute;
+  width: 100%;
+  height: 57px;
+}
+
+header {
+  background: linear-gradient(#00000088, #00000000);
+  top: 0;
+  z-index: 1;
+}
+
+header > div {
+  background: url("/images/shadea.png") repeat-x;
+  top: 0;
+}
+
+footer {
+  background: linear-gradient(#00000000, #00000088);
+  bottom: 0;
+}
+
+footer > div {
+  background: url("/images/shadeb.png") repeat-x;
+  bottom: 0;
 }
 
 h1 {
@@ -16,32 +78,95 @@ h1 {
   font-weight: 500;
 }
 
-main > div {
+main > div,
+div.thread > div {
+  position: relative;
   margin-bottom: 40px;
 }
-main > div:nth-child(5n) {
+main > div:nth-child(5n),
+div.thread > div:nth-child(5n) {
   margin-left: -18px;
   margin-right: 18px;
 }
-main > div:nth-child(5n+1) {
+main > div:nth-child(5n+1),
+div.thread > div:nth-child(5n+1) {
   margin-left: 18px;
   margin-right: -18px;
 }
-main > div:nth-child(5n+2) {
+main > div:nth-child(5n+2),
+div.thread > div:nth-child(5n+2) {
   margin-left: -32px;
   margin-right: 32px;
 }
-main > div:nth-child(5n+3) {
+main > div:nth-child(5n+3),
+div.thread > div:nth-child(5n+3) {
   margin-left: -8px;
   margin-right: 8px;
 }
-main > div:nth-child(5n+4) {
+main > div:nth-child(5n+4),
+div.thread > div:nth-child(5n+4) {
   margin-left: -38px;
   margin-right: 38px;
 }
 
+div.convo {
+  position: relative;
+}
+
+div.convo > a.expand:before {
+  content: ">>";
+}
+
+span.linkback-a {
+  position: absolute;
+  display: block;
+  top: -60px;
+  left: -40px;
+}
+
+a.linkback,
+a.expand {
+  font-size: 12px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  background: black;
+  padding: 2px 8px;
+  border: solid 1px white;
+  border-radius: 6px;
+  margin-top: -32px;
+  margin-right: -30px;
+  box-shadow: 2px 2px 0 0 white;
+}
+
+a.expand {
+  float: right;
+}
+
+div.convo > div.thread {
+  position: absolute;
+  display: none;
+  top: -100px;
+  left: 555px;
+}
+
+div.convo.show > div.thread {
+  display: block;
+  padding-right: 300px;
+}
+
 div.hypertext {
   margin: 20px;
+}
+
+div.convo.show > a.expand {
+  color: black;
+  background: white;
+  box-shadow: 2px 2px 0 0 black;
+}
+
+div.convo.show > a.expand:before {
+  content: "<<";
 }
 
 .by-kickscondor-com {
@@ -60,7 +185,7 @@ div.hypertext {
   color: #ff6;
 }
 
-.by-kickscondor-com h1 {
+.by-kickscondor-com > h1 {
   font-size: 20px;
   color: #fff;
   padding: 0;
@@ -69,7 +194,7 @@ div.hypertext {
   text-shadow: 2px 2px #f09;
 }
 
-.by-kickscondor-com h1 > img {
+.by-kickscondor-com > h1 > img {
   width: 32px;
   border-radius: 8px;
   margin-left: -35px;
@@ -77,7 +202,7 @@ div.hypertext {
   margin-right: 8px;
 }
 
-.by-kickscondor-com hr {
+.by-kickscondor-com > hr {
   border: none;
   background: url("/images/pixelb.png") repeat-x;
   width: 100%;
@@ -93,15 +218,10 @@ div.hypertext {
   vertical-align: baseline;
   position: relative;
   top: -0.4em;
+  color: #f5aaaa;
 }
 .by-kickscondor-com sub {
   top: 0.4em;
-}
-.by-kickscondor-com dl {
-  margin: 0 0 25px 0;
-}
-.by-kickscondor-com dd {
-  margin: 0 0 25px 25px;
 }
 .by-kickscondor-com s {
   text-decoration: none;
@@ -122,7 +242,7 @@ div.hypertext {
 .by-kickscondor-com li {
   margin: 0 0 0 20px;
 }
-.by-kickscondor-com blockquote {
+.by-kickscondor-com > blockquote {
   font-size: 16px;
   background-color: #fcfff4;
   padding: 14px;
@@ -181,7 +301,8 @@ div.hypertext {
   font-stretch: extra-condensed;
   unicode-range: U+000D-1F41B;
 }
-.by-philosopher-life {
+.by-philosopher-life,
+.by-macro {
   border: 1px solid #3b3333 !important;
   background-color: black !important;
   border-radius: 2px !important;
@@ -194,17 +315,23 @@ div.hypertext {
   border: 1px solid #3b3333 !important;
   margin-left: -25px;
   margin-top: -25px;
+  white-space: nowrap;
 }
 .by-philosopher-life > h1 > span {
   color: #66ff66;
 }
-.by-philosopher-life .hypertext {
-}
 .by-philosopher-life sup {
   top: -0.5em;
+  color: #66ff66 !important;
 }
 .by-philosopher-life a {
   color: #02A1D6 !important;
+}
+.by-philosopher-life pre {
+  font-size: 10px;
+}
+.by-philosopher-life p {
+  line-height: 130%;
 }
 
 /* latin-ext */
@@ -248,22 +375,22 @@ div.hypertext {
 }
 .by-sphygm-us .hypertext {
 }
-.by-sphygm-us h1,
-.by-sphygm-us h2,
-.by-sphygm-us h3,
-.by-sphygm-us h4,
-.by-sphygm-us h5,
-.by-sphygm-us h5 {
+.by-sphygm-us > h1,
+.by-sphygm-us > h2,
+.by-sphygm-us > h3,
+.by-sphygm-us > h4,
+.by-sphygm-us > h5,
+.by-sphygm-us > h5 {
   font-family: 'Fira Sans Condensed', sans-serif, 'Segoe UI Symbol';
   font-weight: 300;
 }
-.by-sphygm-us h1 {
+.by-sphygm-us > h1 {
   background-color: #2f3137;
   color: #b37aff;
 	margin: 0;
   padding: 8px;
 }
-.by-sphygm-us h1 > img {
+.by-sphygm-us > h1 > img {
   width: 1em;
   margin-bottom: -3px;
 }
@@ -276,16 +403,29 @@ div.hypertext {
   padding-bottom: 1px;
   padding-right: 5px;
   border-left: 5px solid rgba(255,255,255,0.5);
-  margin-left: 25px;
+  margin: 0 0 0 25px;
   padding-left: 10px;
   quotes: "\201C""\201D""\2018""\2019";
 }
-.by-sphygm-us hr {
+.by-sphygm-us blockquote p {
+  margin: 16px 0;
+}
+.by-sphygm-us cite {
+  display: block;
+  background: hsla(231, 9%, 5%, 1);
+  margin-left: -.5em;
+  margin-right: -5px;
+  padding: .3em .5em;
+}
+.by-sphygm-us > hr {
   border-color: #ededed;
   border-bottom-width: 1.5px;
   border-style: solid;
   box-sizing: content-box;
   height: 0;
+}
+.by-sphygm-us sup {
+  color: #dd1144;
 }
 
 .by-wiki-waifu-haus {
@@ -297,11 +437,12 @@ div.hypertext {
 }
 .by-wiki-waifu-haus .hypertext {
 }
-.by-wiki-waifu-haus h1 {
+.by-wiki-waifu-haus > h1 {
   font-weight: 300;
   font-size: 2.8ch;
+  padding-bottom: 0;
 }
-.by-wiki-waifu-haus h1 > img {
+.by-wiki-waifu-haus > h1 > img {
   margin-bottom: -8px;
 }
 .by-wiki-waifu-haus a.tc-tiddlylink {
@@ -332,4 +473,58 @@ div.hypertext {
   padding: 0 3px 2px;
   border-radius: 3px;
   font-family: "Go Mono","SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+}
+
+.by-macro {
+  color: #999 !important;
+  display: inline-block;
+  text-align: center;
+  font-family: "Times New Roman", serif;
+}
+.by-macro p {
+  margin: 12px;
+}
+
+.fn,
+.wikipage {
+  position: absolute;
+  width: 45ch;
+  display: none;
+  color: #DFA;
+  background: black;
+  z-index: 999;
+  box-shadow: 8px 6px 0 0 #DFA;
+  padding: 6px;
+}
+
+.fn {
+  border: solid 1px #DFA;
+}
+
+.wikipage {
+  border: solid 4px #F09;
+}
+
+.fn.show,
+.fn.clickshow,
+.wikipage.show {
+  display: inline-block;
+}
+
+.wikipage a.close {
+  display: block;
+  float: right;
+  padding: 0px 4px;
+  border: solid 2px #F09;
+  background: black;
+  font-family: monospace;
+  color: #F09;
+  text-decoration: none;
+  font-size: 14px;
+  margin-right: 12px;
+  margin-top: -12px;
+}
+
+.wikipage .hypertext a {
+  color: #FCE;
 }

@@ -2,9 +2,49 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <title>Hypertext 2020</title>
-    <link rel="stylesheet" href="/ht2020.css">
+    <link rel="stylesheet" href="/ht2020.css?19">
+    <script src="https://cdn.jsdelivr.net/npm/umbrellajs"></script>
+    <script language="JavaScript">
+      var pageX = 0, pageY = 0
+      document.onmousemove = function (event) {
+        pageX = event.pageX
+        pageY = event.pageY
+      }
+      function expand(ele) {
+        u(ele.parentNode).toggleClass('show')
+        u('div.thread', ele.parentNode).scroll()
+      }
+      function tw(ele, name) {
+        let page = u('#twid-' + name)
+        page.toggleClass('show').
+          attr('style', 'top: ' + (pageY + 20) + 'px; left: ' + pageX + 'px')
+      }
+      function twc(ele) {
+        u(ele.parentNode).toggleClass('show')
+      }
+      function fn(ele, cls) {
+        u(ele.nextElementSibling).toggleClass(cls)
+      }
+      function linkback(id) {
+        u('#lbid-' + id).scroll()
+      }
+      function mainup() {
+        u('main').addClass('appear')
+        u('div.front').addClass('blow')
+      }
+    </script>
   </head>
   <body>
-    <main></main>
+    <header><div></div></header>
+    <div class="front">
+      <div class="logo"><img src="/images/ht2020.png"></div>
+      <div class="thumb"><a href="javascript:;" onclick="mainup()"><img src="/images/ht2020-thumb.png"></a></div>
+    </div>
+    <main>
+      %MAIN%
+      <div class="by-macro"><p>END OF CHAT</p></div>
+    </main>
+    <footer><div></div></footer>
+    <div id="dis-tunes"></div>
   </body>
 </html>

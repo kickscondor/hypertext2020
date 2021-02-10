@@ -1,0 +1,55 @@
+template: ht2020.tmpl
+transcript: ht2020.txt
+output: index.html
+speakers:
+  '@sphygmus':
+    domain: sphygm.us
+    header: |
+      <img src="/images/sphygmus.png"> sphygmus
+  '@h0p3':
+    domain: philosopher.life
+    header: |
+      █▓▒▒░░░░ <span>h0p3</span> ░░░░▒▒▓█
+  '@nayafia':
+    domain: nadiaeghbal.com
+    header: nayafia
+  '@kickscondor':
+    domain: kickscondor.com
+    header: |
+      <img src="/images/chair.png"> kickscondor
+  '@chameleon':
+    domain: wiki.waifu.haus
+    header: |
+      <img src="/images/chame.svg"> chameleon
+
+pages:
+  T42T: |
+    t42t := ''t''it ''for two t''ats
+    
+    See [[here|https://philosopher.life/#T42T]].
+  hyperconversation: |
+    hyperconversation := a conversation integratively built upon explicit referential linking to at least one hyperobject
+
+    See [[here|https://philosopher.life/#hyperconversation]].
+  PSM: |
+    PSM := ''P''ublic ''S''elf-''M''odel(er/ers/ing)
+
+    See [[here|https://philosopher.life/#PSM]].
+  'Development Levels': |
+    Development Levels (from chame's wiki)
+
+    ''no level'' - for meta-pages, scratchpads and random stuff.
+
+    ''level zero'' - article is //perfect//.
+
+    ''level one'' - done, but may be tweaked in minor ways.
+
+    ''level two'' - mostly done, final draft, structure is sound.
+
+    ''level three'' - in progress, half-finished, structure can be done.
+
+    ''level four'' - barely started, a skeleton or sketch.
+
+    ''level five'' - not yet started, just a title or blurb.
+
+    Original URL is [[here|https://wiki.waifu.haus/#Development Levels]].

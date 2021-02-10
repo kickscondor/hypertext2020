@@ -51,7 +51,7 @@ envisioning something - what if we did a groupchat for a certain range of time?
     structure. I don't know how to cycle between the two well enough.">> That's
     okay. Maybe we'll find some low-hanging fruit.
     ---
-    @kickscondor:meta / 2019-12-10
+    @kickscondor / 2019-12-10
 
     One of the surprising parts of the chat so far has been that personal
     1-to-1 conversations have emerged and seem to coalesce naturally into the
@@ -85,9 +85,9 @@ envisioning something - what if we did a groupchat for a certain range of time?
     @kickscondor / 2020-02-03
 
     h0p3’s recent review of a bunch of his previous chats at the end of January
-    ([[here|@h0p3/2020.01.28%20-%20Wiki%20Review%3A%20Big%2C%20Fat%2C%20White%2C%20Nasty%20Smellin'%2C%20Fat%20Bitch]]
+    ([[here|https://philosopher.life/#2020.01.28%20-%20Wiki%20Review%3A%20Big%2C%20Fat%2C%20White%2C%20Nasty%20Smellin'%2C%20Fat%20Bitch]]
     and
-    [[here|@h0p3/2020.01.29%20-%20Wiki%20Review%3A%20Oompa%20Loompa%20Body%2C%20Ass%20Bitch]],
+    [[here|https://philosopher.life/#2020.01.29%20-%20Wiki%20Review%3A%20Oompa%20Loompa%20Body%2C%20Ass%20Bitch]],
     for instance) is amazing. It’s such a subtle thing - but these kinds of
     chats would be thought of as ‘ephemeral’ on any other blog or wiki. But
     what he’s doing is prepping them for longevity. I wonder what he feels he
@@ -96,7 +96,7 @@ envisioning something - what if we did a groupchat for a certain range of time?
     all of these people, I think.)
 
     I especially like his notes on his [[quite
-    short|@sphygmus/2019.11.18%20-%20Sphygmus%3A%20Mismatches]] chat with
+    short|https://philosopher.life/#2019.11.18%20-%20Sphygmus%3A%20Mismatches]] chat with
     Sphygmus. In a way, these notes form an extended ‘thank you’ for reporting
     some technical issues. It’s cool that she knows his process that well -
     she’s actually reported some things to me as well. Gah, I have a real soft
@@ -300,9 +300,6 @@ envisioning something - what if we did a groupchat for a certain range of time?
 
 Could this be our structure? Haha. I like to dive right in there.
 
-  I must confess I haven't been keeping up too well with [[Sphygmus]]' wiki.
-  I really need to get on top of that. Sorry.
-  ---
   @h0p3 / 2019-11-30 20:31 EST
 
   I like that structure, and I'm curious to see how it should grow. My followup
@@ -311,6 +308,11 @@ Could this be our structure? Haha. I like to dive right in there.
   searching even if it might be visually simpler to have the kinds of trees we
   see in a Reddit-like forum). I'm happy to follow whatever conventions are
   most suitable here.
+  ---
+  @chameleon / 2019-11-30 17:44 CST
+
+  I must confess I haven't been keeping up too well with [[Sphygmus]]' wiki.
+  I really need to get on top of that. Sorry.
   ---
   @sphygmus / 2019-11-30
 
@@ -749,12 +751,12 @@ wiki, chameleon's wiki, and my wiki have each mutated from.
   decorative arrows and bullets. And those discoveries made in the mundane and
   detailed, knotty parts of the graph could be surprising—these lines are all
   pathways of experience. Who knows which are the most vaunted.
-  ---
-  @nayafia / - / /phd
 
-  [E]xplore long-term questions... Try not to overthink what “doing research”
-  means. You’re just a person, learning in public, about a topic that other
-  people find interesting.
+<<<
+[E]xplore long-term questions... Try not to overthink what “doing research”
+means. You’re just a person, learning in public, about a topic that other
+people find interesting.
+<<< [[Re-imagining The PhD|https://nadiaeghbal.com/phd]]
 
 The analogy of laying out graph paper and working on a map to what I'm doing in
 my wiki resonates strongly with me. Bits of myself on this mountain here, bits
@@ -870,6 +872,7 @@ function day-to-day. (Talking through, remembering, clarifying thoughts.)
       that my puke smells this bad, and you thought I smelled bad on the
       outside). It's a leap.
 
+    ---
     @h0p3 / 2019-12-25
 
     //
@@ -1045,6 +1048,7 @@ function day-to-day. (Talking through, remembering, clarifying thoughts.)
     |                                                         ,j        ,V                   
     |                                                        ,'      OOb"   
 
+
     Fuck, dude. Yeah, plain as day, you found the words just fine. I am
     listening, despite the fact that I'm a retarded brute. Ignore my broken
     thoughts, feeling, or questions for clarification at will, please. Like a
@@ -1165,7 +1169,7 @@ when it all gets too nutty!">> it is. :)
 
 <<<
 Kindred spirits are not so scarce as I used to think. It's splendid to find
-out there are so many of them in the world.”
+out there are so many of them in the world.
 <<<
 ---
 @h0p3 / 2019-12-01
@@ -1582,8 +1586,10 @@ you all rabbitholing where we please, often well beyond the surface.
 
 I'd like to propose this question as our next point of conversation:
 
-> //"what on this massive highly-interlinked website might I want to start
-> reading?"//
+<<<
+//"what on this massive highly-interlinked website might I want to start
+reading?"//
+<<<
 
     @chameleon / 2020-01-12 17:15 CST
 
@@ -1717,17 +1723,15 @@ various reasons about that.
   @h0p3 / 2019-12-25 / 2019.12.01%20-%20Antipleonasm%20Analysis%3A%20Telic%20Drafting
 
   Sometimes, I think that question is really
-  intending to ask instead: Who do you want your readers to be?<<ref "i">> Why do
-  you want them to read it? I think there's a difference between what someone
-  would want to read and what they ought; I'm interested in the former only in
-  virtue of the latter.<<ref "a">> 
-
+  intending to ask instead: Who do you want your readers to be?
   <<footnotes "i" "I am open to the possibility that machine-assisted reading
   of this wiki (beyond the fact that it's already a digital medium) will be
   necessary. Crazy as it sounds, I remain open to the possibility that a
-  non-human intelligence will //read// it as well.">>
-
-  <<footnotes "a" "Reason #23490834 this wiki will not be read by almost anyone.">>
+  non-human intelligence will //read// it as well.">> Why do
+  you want them to read it? I think there's a difference between what someone
+  would want to read and what they ought; I'm interested in the former only in
+  virtue of the latter. <<footnotes "a" "Reason #23490834 this wiki will not be
+  read by almost anyone.">>
 
 There are some places that tend to be more relevant than others. [[Readme]] is
 something every new reader should read, but the issue of where best to "start"
@@ -1815,10 +1819,23 @@ world might I want to start ~~reading~~ investigating and thinking about? This
 wiki is as generalized a model as I can make it; I take your question to imply:
 what is worth reading out in the world? At least in part, what's relevant in
 this site as it relates to what is outside the site? That must sound like woo,
-hogwash, a complete fucking non-answer.<<ref "u">> I wish I could give you a
+hogwash, a complete fucking non-answer.
+<<footnotes "u" "Feel free to argue I take my work and myself far too
+seriously too.">> I wish I could give you a
 better one, but that is very much what this site-vessel's metamodern structure
-is pointing toward through the pomo flooding chaotic sea of meanings.<<ref
-"e">>
+is pointing toward through the pomo flooding chaotic sea of meanings.
+<<footnotes "e" "This is a place where I must //show// and not just //tell//.
+While the wiki is a pile, I am proud of //why// it's a pile in this respect.
+Arguably, there's a way in which I do a decent job of demonstrating how hard
+it is to answer that philosophical question in a generalized fashion (it's
+downright a Continental Analytic hybrid, a mix of technical definitions and
+structures with the wandering subjectivity narrative, as qualitative and
+quantitative as I can make it). In addition, I don't think I'm preserving
+[[an entire universe|2018.08.23 - Josiah: Tiff?]], but I do see myself as
+trying to preserve an evolving set of perspectives, and there's an
+[[infinigress]] to being meta about or having yet another functional
+perspective on [[other]] perspectives (even versions of oneself).">>
+
 
 Even Wikipedia, a somewhat homogeneous appearing site, in a sense, ends up
 being something the reader must search (and not everything on Wikipedia is
@@ -1838,32 +1855,16 @@ wiki in the right order.
   the game. I prefer we pick out the [[salience]] for us (and perhaps beyond)
   together. It is likely the case that a reader is best served by writing with
   me. You need to ride me like a sherpa-donkey on the pukevat wasteland pile of a
-  telic cannon.<<ref "l">> 
-
-  I [[hope]] in time to eventually have a much cleaner hierarchical/tree answer
-  (though, I suggest it will always be a steep climb in some areas). I don't know
-  well enough what it will look like way down the instrumental road. 
-
-  <<footnotes "u" "Feel free to argue I take my work and myself far too
-  seriously too.">>
-
-  <<footnotes "e" "This is a place where I must //show// and not just //tell//.
-  While the wiki is a pile, I am proud of //why// it's a pile in this respect.
-  Arguably, there's a way in which I do a decent job of demonstrating how hard
-  it is to answer that philosophical question in a generalized fashion (it's
-  downright a Continental Analytic hybrid, a mix of technical definitions and
-  structures with the wandering subjectivity narrative, as qualitative and
-  quantitative as I can make it). In addition, I don't think I'm preserving
-  [[an entire universe|2018.08.23 - Josiah: Tiff?]], but I do see myself as
-  trying to preserve an evolving set of perspectives, and there's an
-  [[infinigress]] to being meta about or having yet another functional
-  perspective on [[other]] perspectives (even versions of oneself).">>
-
+  telic cannon.
   <<footnotes "l" "Assuming you trust me (and likely even if you didn't), at
   some point, live interaction with [[The Other]] is the most energy-efficient
   empirical method; eventually, passively reading for the same information is
   far more expensive both in terms of how much must be read and how much must
   be simulated.">>
+
+  I [[hope]] in time to eventually have a much cleaner hierarchical/tree answer
+  (though, I suggest it will always be a steep climb in some areas). I don't know
+  well enough what it will look like way down the instrumental road. 
 
 ---
 @chameleon / 2020-01-12 17:15 CST
@@ -1936,7 +1937,7 @@ home page.
 
 Kicks, I forget where, but I made the distinction before: tiddlers VS articles
 VS journals. Tiddlers are the superset, and articles are subject to the
-[[Development Levels|https://wiki.waifu.haus/#Development%20Levels]]. Journal
+[[Development Levels]]. Journal
 entries are fleeting things. They will be lost in time if not tagged, but
 they're still there beneath the surface.
 
@@ -1996,7 +1997,7 @@ context. I think it's terrifying, often absurd.
 
 Ok, thank you - the answers about ‘funneling’ or ‘iceberging’ or ‘shitpiling’
 or whatever you want to call it are all really interesting. I really like
-chame’s take on drafting as [[another layer|https://wiki.waifu.haus/#Development%20Levels]].
+chame’s take on drafting as [[another layer|Development Levels]].
 I hadn’t considered that kind of granularity at all.
 
 I guess we can start to wind the discussion down.
