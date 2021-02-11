@@ -1,0 +1,2365 @@
+@kickscondor / 2019-11-29
+
+@sphygmus @chameleon @h0p3 what is up the weekend
+to write more - the letters that you are all writing right now have unfolded
+new faces and expressions in me - digifaces! I have had a thought tho… I’m
+envisioning something - what if we did a groupchat for a certain range of time?
+
+  And we can field questions to the group, answer them in hypertext - and when
+  we’re done, I’ll make something out of it. Yes, we sort of do this already, but
+  I’m thinking that having a beginning and an ending and a title maybe - could be
+  interesting. Ahh, I’m explaining too much - it is just an attempt to branch off
+  on the ‘hyperconversations’ game.
+  ---
+  @glitchyowl / 2019-11-30 20:31 EST
+
+  Unifying part of the [[hyperconversation]] into one place is cool. I'm curious
+  to know if we should synchronize or branch off in how we might represent what
+  could be a unified groupchat document like this one. It's not just how we play
+  our instruments in the orchestra, but also how we end up remixing and modeling
+  what is recorded, right?
+
+    @sphygmus / 2019-11-30
+
+    hehe, I don't think there are any conventions here at all! 😊 So we get to
+    thread our own way through the tapestry.
+
+      @h0p3 / 2019-12-01 18:44 EST
+
+      I agree we are making our own sets of conventions here, and I think it's
+      awesome that we have the freedom to weave the tapestry from our ends to a
+      significant degree.
+
+    Your mentions of "unified/synchronized/branched" makes me think both of
+    writing collaboratively in a git repository, branching off and editing and
+    merging and so forth; it also makes me think of something like etherpad or a
+    shared google doc, with all sorts of realtime possibilities and copy pasty
+    mergy smashy version tracking author possibilities. which may not be //the//
+    direction, but are possibilities?
+    ---
+    @h0p3 / 2019-12-01 18:44 EST
+
+    Aye! That is where muh brain is going. We're doing something like that,
+    but I don't see how to automate it effectively enough.<<footnote "h:aee"
+    "I'm spitballin' here, and I'm way out of my league. Beyond many kinds of
+    social conventions, we have to agree to some kinds of technical conventions
+    to encode and decode our work to (or sacrifice our autonomy in constructing
+    in our preferred conventions). Lots of what makes our hypertext 'just work'
+    is that we are all using TW (similarly for my ability to use some insane
+    acronym like [[irwartfrr]] with you folks). There are good reasons to seek
+    radical diversity here, and there are good reasons to seek one protocol or
+    structure. I don't know how to cycle between the two well enough.">> That's
+    okay. Maybe we'll find some low-hanging fruit.
+    ---
+    @kickscondor / 2019-12-10
+
+    One of the surprising parts of the chat so far has been that personal
+    1-to-1 conversations have emerged and seem to coalesce naturally into the
+    rest of the chat!! I expected that we would throw out prompts and everyone
+    would respond as a group, like you’d see when a band gets interviewed by a
+    magazine, then we would move on to the next batch of prompts.
+
+    But this is almost like a forum with a bunch of panelists who field
+    questions, then discuss between each other - except that side conversations
+    can happen simultaneously, which would be impossibly noisy in real life.
+    (This is a real problem: a panel is not only limited by time, but if a
+    certain set of panelists takes the conversation in a new direction, there
+    is often no chance - or desire, probably - to return to the original
+    question with a new set of panelists.)
+
+    I’m also very heartened that there is so much longform writing occuring. I
+    wasn’t sure how everyone would feel comfortable responding. And, if the
+    chat is to happen naturally, it shouldn’t be needlessly gimmicky. We don’t
+    want to just use hypertext like we’re pressing vinyl records. It should be
+    used because it is worthwhile. But it’s like a dream - conversing over a
+    broad time span, low-key, exploring each other’s side thoughts, ducking in
+    and out of those newly found corridors - and I feel like I am getting to
+    know everyone better. I’m bracing myself for a downside here.
+
+      We should set a end date - like end of December? Earlier?
+
+      There should also be a new prompt later this week perhaps. To give the
+      group a central point again. Wondering if it should be a new prompt or a
+      natural next segue? Maybe both - and if one is ignored, we leave it behind.
+    ---
+    @kickscondor / 2020-02-03
+
+    h0p3’s recent review of a bunch of his previous chats at the end of January
+    ([[here|https://philosopher.life/#2020.01.28%20-%20Wiki%20Review%3A%20Big%2C%20Fat%2C%20White%2C%20Nasty%20Smellin'%2C%20Fat%20Bitch]]
+    and
+    [[here|https://philosopher.life/#2020.01.29%20-%20Wiki%20Review%3A%20Oompa%20Loompa%20Body%2C%20Ass%20Bitch]],
+    for instance) is amazing. It’s such a subtle thing - but these kinds of
+    chats would be thought of as ‘ephemeral’ on any other blog or wiki. But
+    what he’s doing is prepping them for longevity. I wonder what he feels he
+    was able to shake out of them by running through them again. (It’s
+    impressive how long his notes are - it shows how deep his feelings run for
+    all of these people, I think.)
+
+    I especially like his notes on his [[quite
+    short|https://philosopher.life/#2019.11.18%20-%20Sphygmus%3A%20Mismatches]] chat with
+    Sphygmus. In a way, these notes form an extended ‘thank you’ for reporting
+    some technical issues. It’s cool that she knows his process that well -
+    she’s actually reported some things to me as well. Gah, I have a real soft
+    spot (like the soft spot in an infant’s developing skull - in fact, it’s in
+    the same place!) for observant people.
+
+  ---
+  @sphygmus / 2019-11-30
+
+  love this idea, and awe :) it makes my heart warm. let's experiment and see
+  where it goes! also excited at the thought of collaborating on words & seeing
+  what you make out of them.
+  ---
+  @h0p3 / 2019-12-01
+
+  I’m excited to learn how to write in this format. I’d prefer to think inside
+  this tiddler, but it takes a while for a message to settle sometimes, so
+  please wait until I have a timestamp and ‘draft’ lock is dropped before
+  quoting me.
+  ---
+  @kickscondor / 2019-12-01 / stenos/hypertext-2020:-metachat/
+
+  Just to set you at ease, nothing will be finalized until the chat is over.
+  So I won’t begin wrapping it up until everyone has pulled their stuff out of
+  ‘draft’. Yes, this gives you a chance to edit yourself and mess with old
+  chats - I’m not sure what you all think about the ethic of that - but I’m
+  great with that, we can accomplish more if we trust each other.
+
+  As for quoting you while you’re drafting - since we’re all drafting, too,
+  it seems fair game, right? As long as we source YOUR final quotes from YOUR
+  finalized wiki, right? And if certain quotes don’t add up, we’ll footnote
+  it and maybe it’ll add to the fun of the sprawl.
+
+    Many of the ‘features’ of hyperconversations (drafting in public, heavy
+    footnotes, branching discussion, more-is-more) seem to be attempts to break
+    through possible communication problems by providing an excess of
+    communication to draw from or to replicate the kinds of real-life
+    annotations (body language, grunts, pointing at things) that we give
+    in-person conversation. When someone is drafting a letter publicly and
+    recants some words - or an emotional sentence evolves from reflexive
+    disgust or confusion to a sentence of rationality - you catch a peek at the
+    mind, much like you might in the corner of someone’s eye.
+
+    So, since hyperconversations continue to push toward an attempt at a
+    ‘transparent’ view of someone’s side of a conversation or an early
+    revelation at their motives<<footnote "bw" "I’ve gotten this sense during
+    some of my hyper-Cs that we all lay our cards down face-up on the table
+    (as best you can I guess) and then work backwards from there.">> - I’m going
+    to lay out some of my intentions for doing this chat and everyone can fix me
+    from there.
+
+    One of my main goals from the start is to see what editing and human
+    curation can bring to a chat (or threaded discussion). While formulating
+    [[Notes: We’ve Got Blog (2002)|/stenos/we%27ve-got-blog]], I noticed that
+    one of the prevailing notions of the book was that blogging //improved// on
+    journalism (and presumably op-eds) by simply removing editors and publishers
+    from the process and letting the audience decide what is good.
+
+    But this reasoning does not hold up - blogging doesn’t simply make
+    everyone’s writing better. (It would be harder, right? New medium?) Sure,
+    it may produce more public writing, with some very high quality at the top
+    end - but someone still has to weed through it all - and that’s a tough job
+    that most people don’t want or know how to do in their spare time!<<footnote
+    "still" "It’s also terribly ironic to me that, given the constant lauding of
+    blogging as ascendant in //We’ve Got Blog//, they still chose to edit and
+    curate an anthology of blogposts.">>
+
+    I have a hunch that there could be some remaining value in weeding through a
+    hypertext conversation and polishing it, as a service to readers. I don’t
+    see myself removing any of it - I think the job could be to simply highlight
+    parts of it into a running conversation, moving the rest out of view, but
+    still accessible. I don’t think all readers will appreciate this - some will
+    want (and deserve) the raw text. But I think having an initially truncated
+    version to read can help the reader get into it a bit easier and help them
+    decide if they want the full dump.
+
+      This also seems to tap into some design skills - and I think it’s possible
+      that an editor/designer hybrid craft could come out of a project like this.
+    ---
+    @h0p3 / 2019-12-01
+
+    You are picking out what is [[salient]], right? You are instrumentally
+    reducing and abstracting for the sake of something. You are modeling what
+    you perceive with some purpose in mind. Like my mind, to some [[dok]], my
+    wiki allows me to re-use my data to understand what is [[salient]] in the
+    world (including myself). Unlike my mind, to some [[dok]], my public wiki
+    allows almost anyone to re-use my data to understand what is [[salient]] in
+    the world (including myself).<<footnotes "h" "Which is the hardly the claim
+    it's terribly useful to most people.">>
+
+    [[^polished^]]
+
+    What is the [[gfwiwcgws]] of thinking, experiencing, modeling, including
+    [[PSM]] as just an aspect? Why do I want to know the truth about myself and
+    the world? What is understanding [[good]] for? Well, that's exactly what I'm
+    trying to find and explain (which is hardly to say I'm good at it).
+    [[Hope]]fully, it is part of the most meaningful search for meaning
+    available to at least me.
+
+    [[^instead^]]
+
+    One of the reasons I'm a real piece of work to have in Sunday School with ya
+    (in a way, you are asking me to engage in [[Prompted Introspection]]) is
+    that at least 50% of the time the answer is Jesus (DUUHHHNNNN! Can't top
+    that shit), and that's analogously what I answer like a jackass. Imagine
+    having a math test where you know the answer to every problem is 42 (that's
+    the kind of math test I would give if I taught math, lol...that's basically
+    what I do when I give tests in symbolic logic), but the whole point of the
+    test was showing your work (by doing the work, something is earned,
+    habituated, and written into me; it is a profound exercise of autonomy). I
+    keep almost mindlessly answering: 42 or 42ness, which is almost vacuously
+    true, but I'm still not showing my work well enough to you. I'm trying, lol.
+    You have every right to ask me to continue to pragmatize my answer in my
+    philosophical dojo (and vv).
+
+    Once again, thank you for listening to a madman ramble.
+    `/hands-you-a-bucket-of-rotten-tomatoes`. Do what needs to be done, homie.
+    XD.
+    ---
+    @kickscondor / 2019-12-03
+
+    I think this is probably your most useful analogy to helping me comprehend
+    self-modeling. (Trying to show 42ness.) This goes in the final.
+
+
+  ---
+  @h0p3 / 2019-12-01 / 2019.12.01%20-%20Antipleonasm%20Analysis%3A%20Telic%20Drafting
+
+  Sprawling as usual<<footnotes "l" "I'm grateful for the gorgeous meta-analysis
+  thus far. You knew I would though. You're a wizard interpreter (I'm beyond
+  jelly). I swear, I could leave 3 tiny random appearing scratches plus a
+  footnote, and you'd realize at least half of what it was meant to say or even
+  the [implicit reasons or tacit agreements] for why it was said to some
+  non-trivial [[dok]]. Of course, I don't even have to say this to you,
+  quasi-telepath, but I need my son to be able to understand this. I'm grateful
+  that you are [[Making It Explicit|https://www.amazon.com/Making-Explicit-Representing-Discursive-Commitment/dp/0674543300#customerReviews]]
+  with me.">>; I don't want to dump directly into
+  [[@: hypertext 2020]].<<footnotes "s" "So far, it looks like a microcosm to
+  me, a shared focal point, or a shared neuron with a clearer ground zero for
+  where our interpretations attempt to meld and branch off.">> I'm not convinced
+  I ought.
+
+  Perhaps this is an example of the broader principle in action. I signaled a
+  preference about drafting while drafting, and it was overridden quite
+  reasonably, with an explanation and justification to boot.
+
+    [[You|kickscondor]] have my trust, [[Root User]]. The people outside of
+    [[@: hypertext 2020]] (for example, the people who may read this a decade
+    from now) do not, or at least not nearly to the same [[dok]]. Being public,
+    and being who I am, I have my work cut out for me to justifiably withstand
+    the possibility of intense scrutiny.<<footnotes "w" "Questions a [[PSM]]
+    must ask themselves: what am I willing to die for? What am I willing to be
+    persecuted for? Sometimes, that's just what [[faith]] is, and those
+    {[[axioms]]} are part of what we are really made of.">>
+
+  One of the reasons I feel I have some license to draft and why I'm partially
+  comfortable with you quoting my drafts is that I do my best to keep snapshots.
+  There's something to hold onto there for rigorous interpretation. This is also
+  part of why I offer a real-time sync and minutely diff. While I'm pretty awful
+  at providing context, there's still a curve in there to think about. I
+  anticipate that someone can ask, "Hey, you changed your mind; why would you
+  do that?". I don't always have control over my guts (I often have to puke
+  them up and think about them), but I do have some control over how I'm going
+  to reason about my feelings and what I'm going to do about them. You have the
+  chance to reason about whether or not I'm trying to do the best I can with my
+  pile of puke.
+
+    @kickscondor / 2019-12-03
+
+    Hahah! We’re all standing around examining each other’s sick. I like this
+    interpretation. I think that if people could begin with this image, use it
+    as the basis for their consensus, they can admirably proceed with the
+    dialectic. There’s a lot less picking things apart if you cut the whole
+    conversation some slack. (//But I’m also glad that you asked me to
+    clarify - and that you dug into the response - sure, why not? It’s all
+    doodoo - but still worth rooting in, on the chance of some swallowed
+    gems…//)
+
+  I realize I may be quoting a draft quoting a draft here. XD. They aren't
+  easy lines to draw, no doubt. [[As I said|@: hypertext 2020]], I'm still
+  feeling out the fitting conventions here. I'm hesitant to directly quote
+  drafts, but I agree it is necessary sometimes. I suppose it can be useful
+  to cite a draft as such where appropriate (your guess is as good as mine).
+  I also think linking to the source can sometimes iron out these wrinkles.
+
+  I'm okay that it isn't finalized in some sense. Syntax and some metadata
+  considerations aren't big deals to me. I [[hope]] we'll come back and
+  re-interpret the sequence yet again (still seems like a continuation of the
+  original sequence). I do try to leave content untouched eventually. My
+  [[CDR]] logs tend to be relaxed. After a weekly audit (during
+  [[Family Time]]), and even moreso after a [[Monthly Audit]], I'd like to
+  think that part of the clay has somewhat hardened. Sometimes I add
+  Retroactive [[Footnotes]], and other times I simply link to it and keep
+  building.
+
+  Commitment is a process, hardly one I've understood and mastered well
+  enough.
+
+---
+@chameleon / 2019-11-30 17:44 CST
+
+Could this be our structure? Haha. I like to dive right in there.
+
+  @h0p3 / 2019-11-30 20:31 EST
+
+  I like that structure, and I'm curious to see how it should grow. My followup
+  suggestion is tentative, especially because it doesn't point well enough
+  (probably either requiring an extension in TW5 or transclusions, but I'm fine
+  searching even if it might be visually simpler to have the kinds of trees we
+  see in a Reddit-like forum). I'm happy to follow whatever conventions are
+  most suitable here.
+  ---
+  @chameleon / 2019-11-30 17:44 CST
+
+  I must confess I haven't been keeping up too well with [[Sphygmus]]' wiki.
+  I really need to get on top of that. Sorry.
+  ---
+  @sphygmus / 2019-11-30
+
+  there's no need to be on top of my wiki, and no apologies necessary! it's a
+  pile; not as big as @h0p3's, yet, but still one. My daily writing is either
+  the most interesting or the least interesting, depending on who the readers
+  is, while everything from [[art/work]] downwards in my [[Root]] list is more,
+  or less, messy subject matter tiddlers.
+
+You'll likely mostly get ''JIBBA-JABBA'' from yours truly. Also very sorry ;)
+I'm not a very interesting person in live or semi-live chat, or if I don't have
+a springboard to work from. Nevertheless, I look forward to chatting with you
+all.
+
+  `date +'%Y-%0m-%0d %H:%M %Z'` btw.
+
+  Oh, also, you all deserve better tags, lol.
+  ---
+  @sphygmus / 2019-11-30
+
+  thanks for the date snippet! makes it ezpz. the fun thing about hyper text is
+  that this doesn't have to be our final format -- it can be as mushy as we want
+  it to be!
+  ---
+  @h0p3 / 2019-12-01 18:44 EST
+
+  I'm curious to see how far our [[@: hypertext 2020]] and related hypertexts
+  might diverge. In addition to a kaleidescope of perspectives, there's almost
+  a telephone game component to it.
+  ---
+  @chameleon / 2019-12-01 18:55 CST
+
+  I think h0p3 is trustworthy with maintaining the page, so I'll use this for my
+  "send"s from now on, lol.
+
+---
+@h0p3 / 2019-11-30 20:31 EST
+
+This is fun. =)
+---
+@sphygmus / 2019-11-30
+
+oh yay, I love you fellow wiki folks starting the format for me -- so easy to
+export a .tid from your wiki and import it into mine! 😊
+
+  this also makes me want to develop my [[who-styles]] more; @h0p3 feels lonely
+  there, being the only piece that's #stylish.<<footnote "ft" "dies at the
+  thought of more font load XP">>
+
+---
+@kickscondor / 2019-11-30
+
+Tentative title for the chat.
+
+''//HYPERTEXT 2020//''
+
+''Where is an
+EXPERT WIKIER supposed to go in the next decade?'' But yeah - just rip into what
+is going to be hot techs and paradigms for expert public self-modelers in this
+future timeline.
+
+If we get @sphygmus on, I’ll do a mic check and then we can start. Hope
+I’m not jumping the gun - just pitched this idea today…
+---
+@sphygmus / 2019-11-30
+
+expert public self-modelers, oh my! and is that the first prompt -- where to
+go in the next decade? no gun jumping here, I think it's all fizzy excitement.
+mic check at will!
+---
+@kickscondor / 2019-11-30
+
+Whoa whoa - how bout let’s back up to ''‘public self-modeling’''? (Seems like
+we’ve had an adequate mic check.) ''For yourself, personally - is this an
+adequate shorthand? Or do you think of yourself in any other terms that can
+help someone understand your work?''
+---
+@h0p3 / 2019-12-01 18:44 EST
+
+Adequate shorthand [[for what|gfwiwcgws]]? There are limits to how much anyone
+(also me) can understand my work. It's a hard problem to know how to help
+anyone //better// understand it.<<footnote "h:bst" "I'm convinced it is not
+easy to understand what counts as the standard of the [[good]] of
+understanding.">> [[PSM]] is a strong aspect of the [[gem]]. I wish I knew
+how to better generalize in a few words what I'm doing in my work ("it's
+[[h0p3]]'s wiki" is kinda lame). How does one pick out what is most
+[[salient]]?
+
+What do you think is an adequate shorthand for what we are each doing?
+---
+@kickscondor / 2019-12-01
+
+An adequate shorthand to describe you, your wiki, your work there. I feel
+like the phrase was an attempt to wrap all of that up into a shorter name so
+that you can refer to it briefly - and perhaps so people can understand from
+a glimpse. Or even so you can understand or remind yourself of what you are
+doing.
+
+So, my first question is just to look at the phrase again. Seems like a good
+starting point. Is it that to you? Where does it function today?
+
+* * *
+
+As additional material - ‘public self-modeling’ is a phrase that
+chameleon has had fun with and I’m not sure to what extent it is a meme for
+her or if it is quite serious or what. On the other hand, Sphygmus has
+[[said|https://sphygm.us/#190921%20%E2%80%93%20Log%3A%20self-representation]]
+a few months ago (referencing this word) that her wiki is “not an attempt to
+answer the question of who I am.” So, I guess I also wonder if “self-modeling”
+is a quest to answer who you are or if it is something else."
+---
+@chameleon / 2019-12-12 03:18 CST
+
+All things are memes, all things are serious. I mock that which I care about,
+sometimes, because that's how I know I can really care.
+
+Well, I think I'm just irony poisoned by too much time on social media and chans
+and that's made me prone to joking about things I'm serious about, or taking a
+mocking tone at all times. To me PSM-ing is serious work, I just like to laugh
+at myself on occasion. I didn't write
+[[Lol chameleon|https://wiki.waifu.haus/#Lol%20chameleon]] just for a lark.
+
+To maybe echo a sentiment from your last letter, kicksy-kun, the whole internet
+thing is a fun little giggle ;)
+---
+@h0p3 / 2019-12-01 18:44 EST
+
+As a habitual wall-of-texting sprawler, I feel some of the claustrophobifying
+tweet-syndrome creeping into me here.<<footnote "h:tss" "Space for babbling,
+thank the maker. I feel like I'm back in school trying to ugly-compress a
+12-page paper into 6. Some people may find it is impolite to take up too much
+space in groupchats (3 or more ppl). How can I fit and attach a sincere version
+of myself correctly to this thing in order to fairly meet the needs of the
+people in the group? I'm grateful hypertext offers the opportunity to hide a
+barrage of elements in various orders, offering kind of executive summary
+narrative doorways a user can autonomously open, reveal, iterate over, wander,
+track, and search. The fuller model drips down into the footnotes,
+reveal-widgets, searchable phrasing, and linkmaps. You can't hold the whole
+rabbithole at once, so what trails do you need right now?">> However poorly,
+I'm thinking about how to [[compress|Antipleonasm]] what I'm going to
+say,<<footnote "h:gts" "It helps to accurately guess sequences which are reader
+might likely traverse, and I have to think about the possibility that my
+hypertext as a whole will be broken (beyond my own stupidity), taken out of
+context, and only a bare initial face or limited semblance of the quote will
+make it.">> picking which threads to drop before it explodes, trying to find the
+fitting conventions which minimize handwork while improving
+automaticity<<footnote "h:aut" "I'm giddy+nauseous at the thought of how to
+maximize a hypertexter's autonomy and expressivity while still packaging it up
+for a securely scaled mesh.">> for my [[love]]d ones,<<footnote "h:plz" "Feel
+free to tell me to change my conventions or be quieter.">> and weighing how I
+should cleanly represent an overlapping splattered heap into a forensic-worthy
+stack.<<footnote "h:bro" "My brother, [[JRE]], has told me it is difficult to
+follow, so I'm doing a terrible job.">>
+
+  @chameleon / 2019-12-01 18:55 CST
+
+  I have the opposite problem to you. I struggle with what to say. I'm very
+  brusque at the best of times :)
+
+---
+@kickscondor / 2019-12-01
+
+You can fully expound - that could be a virtue of this style of chat. You could
+footnote off into a new tiddler, if you need. Or you can simply link in an old
+one if it represents your answer still well enough. Carry on. (And on.)
+---
+@h0p3 / 2019-12-01
+
+^instead^ Instead of the [[PSM]] question, I think the better starting question is:
+''why do you have wikis like yours on the web, what are they for?'' Well, what
+is anything for? To pick out what is [[salient]]. That's what I'm practicing in
+this wiki (like an [[arrogant]] fool, surely). Awful as it is: [[Root]] is still
+the best representation of what I'm doing in this wiki. Even in shambles:
+{[[About]]}, {[[Principles]]}, [[Lifetime Projects]], and [[Readme]] point to
+what I'm doing in this wiki and why as well as I know how (though it's barely
+readable, I realize). I have to iterate and grow them, and even my chronological
+linking to them tells a story ([[ITS]]). Of course, I think we each have a
+different path to take here to some [[dok]], and mine merits profound ridicule,
+lol.
+
+  @kickscondor / 2019-12-03
+
+  To me, it’s the same - I act as conduit for discovering wonderful things. To
+  me, wonderful things and wonderful people make life worth living. (How do I
+  know if it’s ‘wonderful’? — Because it makes my life worth living.)
+  (//To prevent you from asking me to clarify - it ends there - an instinctive
+  feeling of simply ‘this is worth it to me’//.)
+  ---
+  @h0p3 / 2019-12-06 22:05 EST
+
+  The process of clarifying who we are, including what is valuable to
+  us,<<footnote "h:ssm" "Socrates goes up to the counter. “What would you like?”
+  asks the barista. “What would you recommend?” asks Socrates. “I would go with
+  the pumpkin spice latte,” says the barista. “Why?” asks Socrates. “It’s
+  seasonal,” she answers. “But why exactly is a seasonal drink better than a
+  non-seasonal drink?” “Well,” said the barista, “I guess it helps to connect
+  you to the rhythm of the changing seasons.” “But do you do other things to
+  connect yourself to that rhythm?” asked Socrates. “Like wear seasonal
+  clothing? Or read seasonal books? If not, how come it’s only drinks that are
+  seasonal?” “I’m not sure,” says the barista. “Think about it,” says Socrates,
+  and leaves without getting anything.">> appears to be at least part of the
+  treadmill of generating our models, and they ought to be. Our brains are
+  constantly modeling the world (including ourselves); there'd be no intentional
+  consciousness without it.
+
+    @kickscondor / 2019-12-24
+
+    I may think something is wonderful in the ‘now’ but that could change. (//I
+    try to resist that, though - and to always be grateful for the things I’ve
+    loved from the past. This helps me to guarantee that I will always love
+    philosopher.life!//)
+
+      @h0p3 / 2019-12-25
+
+      I'm confused, and I am certainly missing crucial lego pieces here. Thank
+      you for crafting this. I would beg for clarification, but I do not wish you
+      to waste your breath on me when it may be more important for you to simply
+      breathe.
+
+    But I can’t always nab (in the instant) why I love
+    something.
+
+      @h0p3 / 2019-12-25
+
+      I would argue this is true to some [[dok]] at any level in any of our
+      contexts (for both love and like). I beg you forgive me for being so
+      high-pressure, dark, heavy, and straight-up mean in wrestling for
+      cognitive articulations of this. I am often a poor judge of what you are
+      capable of achieving in your circumstances (again, I am a poor modeler),
+      and you should feel free to hold me accountable for failing to be
+      fittingly hedged-conservative here (and elsewhere).
+
+    And I feel that even attempting to can be foolhardy.
+
+      @h0p3 / 2019-12-25
+
+      I can agree that sometimes it can be foolhardy, and not just in the sense
+      that the odds of succeeding are sometimes low, nor simply because it can
+      be imprudent at times, but also because it can be wrong to pursue in some
+      contexts. There is a give and a take here, and we must take breaks from
+      cognitive grinds to maintain our sanity. I'm absurd in this space.
+
+    In the
+    moment, I can usually only assemble a tiny LEGO flower of an impression.
+
+      @h0p3 / 2019-12-25
+
+      Your words echo through time to me. I do not know what you mean well
+      enough. Sir David Hume speaks of impressions and passions. He thinks
+      there are only impressions, but I think you make a very Kantian move in
+      claiming to assemble the impression, to impose your modeling on it. I
+      also think it speaks to a recognition of having at least a tiny amount of
+      [[power]] in autonomously shaping what you perceive of the
+      thing-in-itself.
+
+      I'm egregious here. I ask questions that are impossible to answer all
+      day. I do not mean to hinder your cultivation of flowers and impressions
+      in a way that is not useful to you.
+
+    And it often seems better to hold off and try to assemble something more.
+    Although: flowers are dainty and beautiful in their own right and I can
+    still later surround them with LEGO cabbages and LEGO motorcycles and
+    minotaurs and to build the fine scenery that I mean to.
+
+      @h0p3 / 2019-12-25
+
+      This is a hard problem. I have no idea what to say about it. I don't
+      think the work ever ends, but you need to take breaks, dally, diffuse,
+      bask, and live in the moment, too. How to pick that out wisely is a
+      virtue far beyond me.
+
+    And I also think that my LEGO flower (in this case) would be the phrase, “I
+    love it because it makes my life worth living.” And to avoid the rational
+    dissection of it is to grant it real life for the moment.
+
+      @h0p3 / 2019-12-25
+
+      I appreciate that. I'm trying to demonstrate to you that I get that,
+      [[kicks]]condor. I'm a dumb hammer, and everything is a nail to me.
+      Perhaps you will have to help me wield me, Dasein. I don't know how to be
+      instrumental enough to you. I am often the wrong tool for flower-making,
+      but sometimes I come in handy for pinning them and arranging the LEGO
+      vases.
+
+      Even the rational parts of who we are must learn to respect the
+      irrational parts of who we are, and vice versa. I don't know how to
+      fittingly pull back enough to know [[W5H]] to pull back and cognize about
+      what I'm feeling, nor how to fittingly curl up enough to know [[W5H]] to
+      curl up and escape what I'm thinking. There is an ethic to bridging what
+      Heidegger calls the ready-to-hand and the present-at-hand. I am obviously
+      profoundly convinced that cognition is an indispensable half of the
+      [[Self-Dialectic]]. I take you to be saying the same.
+
+    (//Of course, I’m not opposed to the conversation with Socrates, I would
+    have it in an instant//. “Because drinks are more seasonal to me,” I say to
+    him. “Drinks can’t be //more// seasonal,” he says, “because they have no
+    seasons.” I say, “Oh yes, they do. They hover right above the liquid…”)
+
+      @h0p3 / 2019-12-25
+
+      Your anecdote sounds like thinking and feeling to me. I can't say for
+      sure. The subjectivity of existence, how it feels, and how it appears to
+      me: to my best knowledge, these are real attributes of my relationship to
+      the other and hence the thing-in-itself. It is difficult to not feel what
+      you are feeling in the moment (arguably impossible in most cases), and it
+      is likewise difficult to think about what you are feeling (arguably
+      extremely painful in most cases).
+
+      Dissociation, perhaps functionally embedded in every living fiction to
+      some [[dok]], is morally obligated and perfectly rational in many kinds
+      of cases. Likewise, after sufficient reason, sometimes one's feelings are
+      the sole reason of justification available to us, the remaining
+      definition.
+
+      I told you once that my wife is deathly allergic to morphine; the
+      painkiller took her life after she was burned alive. She could not have
+      morphine for her agony (nor for the years of pain and grief that
+      followed). Anesthetics and painkillers, at least [[phenomenologically]],
+      do some kind of dissociative work in blocking out part of reality. After
+      killing and reviving her (itself a trauma), there were no partial
+      measures they could give the 13yo girl. Complete dissociation was the
+      only medicine available. Ketamine, mountains of it from what I can tell;
+      it permanently altered her. Even though she can barely remember it, all
+      she can remember of 1989 is pain and skin grafts. She has spent a
+      lifetime feeling and reasoning about the dichotomy between the
+      meaninglessness and the meaning of suffering.
+
+      It's here that [[The Other]] is always fundamentally autistic. Lastly, I
+      think it's a matter of stop and go progress. I hope you wisely enjoy the
+      reality of your seasonal drink and bouquets of fiery flowers.
+
+  I agree even the possibility of wonderful people (and other things in virtue
+  of them) are fundamental to what makes life worth living.
+
+  What makes a person wonderful "to me" is not necessarily what makes a person
+  wonderful. Likewise, what makes life worth living "to me" and what makes it
+  objectively worth living are not identical; I can only hope to try to wisely
+  close the gap. I agree that sentiments of "this is worth it to me" are a
+  fundamental part of the objective calculation of what actually makes it worth
+  it. One can be wrong about what makes life worth living though, which is why
+  continued clarification is necessary; we are obligated to attempt to improve
+  our understanding of what makes life worth living and what counts as
+  "wonderful."<<footnote "h:tfe" "I suggest wonderful things can obtain even if
+  there's no one there to think they are wonderful.">>
+
+  Even though I agree your instinct, intuition, and sentiment (and their
+  development or inspiration) are necessary, that doesn't make them sufficiently
+  justified.<<footnote "h:tsj" "The 'because I said so' parental cliche is not a
+  strong argument. The ultimate reasons 'why' aren't competely inherent to any
+  particular agent's point of view.">> There can be a difference between what
+  you want and what you should want. Godwin's Law: what makes Hitler's
+  sentiments about what matters (including what makes his life worth living)
+  objectively wrong in some cases? Is it simply because he doesn't value what I
+  value? Why should we be prevented from asking him to clarify not just what it
+  means for him to say "this is worth it to me," but also "why should it be
+  worth it to him?" We are hitting the paradox of tolerance here, and we have to
+  think about how to justify intolerance. At the very least, it requires
+  democratically mapping and weighing all of our instincts (though that itself
+  is seeking objective evaluation). Part of the issue is that we don't obviously
+  have a moral right to be just any version of ourselves. We don't own ourselves
+  all the way down, including our epistemic justifications. We actually owe
+  things to others (duties and rights correspond, and ownership is defined by
+  clusters of those relationships), though that may be what you are trying to
+  get at in living for "wonderful people" here. First-personally, justice is at
+  least fairness in negotiating between what is valuable "to me" (whatever the
+  self is) and "to others."
+
+  Some people think of philosophy as a form of therapy. There is a kind of peace
+  which one might achieve by no longer asking "why" or stoically minimizing
+  desires. Some might go so far as to say the only solution is to dissolve the
+  belief there was a problem at all.
+
+  Lastly, the brain has evolved to be a probabilistic inference machine that
+  seeks energy-efficient modeling (those specimens tend to be more likely to
+  survive).<<footnote "h:nts" "Interestingly, the experience of time may be
+  related to the amount of energy necessary to compute what is novel, and on a
+  view like Heidegger's, we're trying to escape thinking about the world, as
+  though the evolutionary pursuit of energy-efficiency pushes consciousness to
+  seek eliminating itself.">> One energy-efficient filter, inference, or
+  instinct about value is to say it matters because I say it matters, and leave
+  it at that. Conversely, one could be chemically addicted to continually trying
+  to ask and answer "why."
+
+---
+@sphygmus / 2019-12-01 / %40%3A hypertext 2020%3A terms of understanding
+
+I'm not sure "public self-modeler" is immediately understandable to the average
+person you might pick off the street, and I don't consciously think of myself in
+those specific words.
+
+  @chameleon / 2019-12-01 18:55 CST
+
+  I'm pretty sure expert PSM is from me, lol:
+  [[Expert Wikier|https://wiki.waifu.haus/#Expert%20Wikier]].
+  kicks even quoted it on the first post about me over there! It's based on the
+  /prog/ expert programmer copypasta. I really had to bend over backwards to get
+  TiddlyWiki stuff in there!
+
+I do think it might be useful as a general blanket term for the DNA that h0p3's
+wiki, chameleon's wiki, and my wiki have each mutated from.
+
+  @h0p3 / - / Public%20Self-Modelers
+
+  We are a ragtag beautiful group of nomads self-modeling and penpalling in the
+  public sphere. To the best of our knowledge, we honestly attempt to be
+  ourselves to the extent we are objectively permitted. We care about our own
+  lives and relationships enough to make art of them. Who are the diamonds and
+  redpills among us? Let we fff construct and deconstruct ourselves as we wish
+  others would in reflective equilibrium to ours. Decentralize the means of
+  dialectical production all the way down in Humanity's 4DID. Let us build
+  Beautiful, Right, and thus Good identities together in every order, category,
+  and dok.
+  ---
+  @kickscondor / - / /comments/those-darn-phantoms
+
+  to make it easy to know others—read many and try to develop the skill of
+  ‘feeling’ for who they are, acknowledging their tones and colors.
+
+  There are people I’ve known my whole life who are still a mystery, whose
+  relationship still feels tentative—I question whether depth can be. Perhaps
+  there is only commitment.
+
+  A person changing changes the ‘depth’. When a singer’s voice or style changes,
+  we have to start liking them from the place where they last were. But a singer
+  who sang me a great song once—well, I could be devoted forever in sheer
+  gratitude.
+  ---
+  @kickscondor / - / /comments/we-are-all-animals
+
+  It’s as if you’ve spread a giant sheet of graph paper before you on the
+  floor—and have begun to box and triangulate your aspects, to map out yourself.
+  And, to anyone watching (and why would they watch? well, hell, if I saw
+  someone mapping out on a giant self-o-graph in the campus quad, I think I’d
+  stop to see) they’ll see the places where they map onto you, or where their
+  points go near or interweave. You have your own handwriting and flourishes of
+  decorative arrows and bullets. And those discoveries made in the mundane and
+  detailed, knotty parts of the graph could be surprising—these lines are all
+  pathways of experience. Who knows which are the most vaunted.
+
+<<<
+[E]xplore long-term questions... Try not to overthink what “doing research”
+means. You’re just a person, learning in public, about a topic that other
+people find interesting.
+<<< [[Re-imagining The PhD|https://nadiaeghbal.com/phd]]
+
+The analogy of laying out graph paper and working on a map to what I'm doing in
+my wiki resonates strongly with me. Bits of myself on this mountain here, bits
+of myself in that valley there: of course I think about this a lot in relation
+to [[Placeness]] and [[Embodiment]]. If we sometimes emulate the physical world
+in a mental mind palace to enhance our memory, this wiki feels like it might be
+my mental states laid out in some sort of "physical" space.
+
+On the one hand, there are my journal logs. On the other hand, there are my
+subject matter logs. Keeping multiple wikis or multiple web pages for different
+subjects appears to be one approach that people take: maybe the most common
+approach? Perhaps it's confusing to stumble upon a website where everything is
+mashed together -- the mundane details of what I ate yesterday right alongside
+finished letters, notes on projects, and my drafting of this response.
+
+* * *
+
+Artisan, craftsperson, geographer -- I think h0p3 essentially sums up an overall
+desire in his [[introduction|https://philosopher.life/#Sphygmus]].<<footnote
+"wd" "would that I had the skill at recognizing and translating people so well
+for them!">> In the conceptual/formal realm of my school's art department:
+artists find a problem or question interesting and do research on it; find
+different ways of approaching it; think up experiments and run them; develop a
+structured or intuitive process; and so forth. Art becomes the science of
+approaching creation as conceptual exploration.
+
+In some sense this is the problem with writing an artist statement -- ugh, I
+didn't like the school assignment to write an artist statement. (Now I want to
+go find whatever I wrastled up and submitted for it.) How can I write an artist
+statement when I don't even know what I'm doing myself? I haven't pinned it down
+or figured it out -- just wandering, and I'm not sure it means anything to
+anyone.
+
+Perhaps it's about feeling -- when the wind is warm but just a little sharp,
+and blows that feeling of longing straight through your bones -- if one
+empathizes with that feeling, resonates with it, then perhaps they'll feel
+themselves in a little bit of my wiki as well.
+
+  @kickscondor / 2019-12-03
+
+  (//First off - great quotes! The low-key Nadia quote is unexpected, but very
+  refreshing//.)
+
+  I actually think your wiki is an ‘artist statement’ without needing to
+  explicitly state that - and I think that’s why h0p3 could capture your
+  essence so clearly. Maybe he inferred it from all the pieces?
+  ---
+  @sphygmus / 2019-12-08
+
+  I feel like my wiki is where I get to throw all my sick at the wall and see
+  what sticks, you know? Just dump it all in here and then later, whenever I
+  feel like it, I can use it to research myself and connect the dots to form
+  some larger picture (hopefully). It's wonderful to be able to ''easily''
+  check on what I wrote on this exact same day last year, to see what was going
+  on inside my head. Repeating myself here -- it's more dynamic and alive than
+  the text that's currently locked inside my paper journals.
+---
+@h0p3 / 2019-12-02 21:46 EST
+
+I take it that you don't see yourself as a [[PSM]], [[kicks]]. Is that fair to
+say?
+---
+@kickscondor / 2019-12-03
+
+Yeah, I see myself more as a conduit. I really get into finding people and
+connecting people (and saying hi to them). I don’t have a desire to preserve
+myself or to catalog myself. But having the dialetic does make some of that
+worthwhile. And maybe I do model myself in other ways: in pixels, in code, in
+colors flickering.
+
+  @h0p3 / 2019-12-06 22:05 EST
+
+  I can appreciate the conduit metaphor. I like to think you add weight in how
+  things are picked out and transferred, maybe more like a neuron (which is
+  arguably a conduit of sorts).
+
+I mean - you’ve all influenced me a lot and I find myself mimicking some of
+your conventions. This leads me to think that part of PSM-ing helps a human
+function day-to-day. (Talking through, remembering, clarifying thoughts.)
+
+  I wish I understood better whether ‘modeling’ meant a self-‘styling’,
+  self-‘bending’, self-‘constructing’ vs just trying to represent yourself as
+  you are, ‘the plain picture’
+  [[in Bob Dylan’s meaning|https://youtu.be/mnl5X5MQKTg?t=104]]. Maybe it’s all
+  of it, somewhere between, or simply not possible. Are we modeling fictional
+  characters or not? Does it matter?
+  ---
+  @h0p3 / 2019-12-06 22:05 EST
+
+  I don't think these questions just matter to me; I think they matter more
+  objectively.
+
+  Maybe you are asking: what is the "self"? I don't have a satisfactory answer.
+  We face [[infinigress]]es here; in a sense, it can't be satisfied by us, it
+  can only be sought.<<footnote "h:tsf" "Some things are more essential to who
+  one is than others, some more [[salient]] than others, but the entire map of
+  one's dialectical identity stretches across at least the lightcone from
+  one's conception. The wiki is particularly useful in re-using (including
+  finding) parts and piecing together an enriched model of oneself.">>
+
+    @kickscondor / 2019-12-24
+
+    I’m having a very difficult time replying to this (and the remarks that
+    follow it.) Not because it’s not well-written or because I don’t agree -
+    simply because I want to expand on it, but haven’t the language to do it.
+
+      @h0p3 / 2019-12-25
+
+      No doubt; we are way, way outside of my comfort zone, too. I'm grateful
+      for your ack, and I hope to live up to it. Unfortunately, there is no
+      complete language available to us, and we can only make do with what we
+      have. As you do, I'm trying to give you my best understanding (I'm sorry
+      that my puke smells this bad, and you thought I smelled bad on the
+      outside). It's a leap.
+
+    ---
+    @h0p3 / 2019-12-25
+
+    //
+    """
+    Against all odds I [[hope]]:
+    Resiliently write or erase space and time;
+    openly wander or race the wind and water.
+    May all those who need courage to seek peace persevere.
+    It is necessary to construct and bring flowers to war;
+    never forget what you are fighting for.
+    """
+    //
+
+    I don't know what you are saying nearly well enough, and I don't know how
+    much time I have. You are going to need to continue calmly weaving the
+    music so I can find you in the static. Now, I blindly race. We're both
+    going to need to breathe deeply, but for different reasons. You must
+    counsel me otherwise, sir. Tell me to remove my hokey hand or my trite
+    eyes, and I will.
+
+  Maybe you need to define fiction further for me. It may come in [[dok]]. It
+  seems like the relationship between author intentions and reader
+  interpretations may define fiction in context. This is not an area I
+  understand nearly well enough.
+
+  Insofar as imaginary characters pop up in our [[phenomenology]], we are
+  modeling imaginary characters who are a part of who we are. Humor, irony,
+  counterfactuals, hypothetical reasoning, rhetoric, and imagination all seem to
+  have fictional elements to them; all of those are part of my modeling. Even
+  proofs in classical logic rely upon the absurd, particularly in [subproofs,
+  stages, or layers], to eventually point us to the truth. In some cases, we are
+  forced to model things we don't mean in order to model the things we do. We
+  also might think of choice as modeling who we could be, generating a set of
+  fictional characters, and selecting from them. I'm open to the claim models
+  always have something fictional about them insofar as we pretend they are the
+  things-in-themselves. Bohr's model or Newtonian physics might be fictions in
+  a sense, but they act as intuition pumps and provide the initial kernel
+  material over which we can iterate and bootstrap a more accurate model too.
+
+  Do I think the "self" is a fiction? It depends. We can be wrong about who we
+  are because there is an objective "who we are."<<footnote "h:hyd" "How you
+  define yourself is not who you are, but only a part of it.">> Who we think we
+  are (including our own modeling of the world) might be fictional in some
+  sense, but the gap between who we think we are and who we actually are is not
+  fictional (though it seems even that gap is built into "who we are"). Who we
+  are can only be understood through dialectics with others, and at least
+  sometimes that occurs through dialectics with imagined characters. Of course,
+  certainty cannot be achieved,<<footnote "h:cba" "If justified certainty is the
+  absolute standard for knowledge, then we cannot know if we are modeling
+  fictional characters.">> and any time you posit a limit, you posit something
+  beyond it. <<footnote "h:sbi" "and what is beyond that limit is sometimes only
+  something which fiction can initially explore">>
+
+    @kickscondor / 2019-12-24
+
+    [[^now^]]
+
+    If I //sought// after your model, I couldn’t achieve it ‘now’,
+    in an instant. It would become assembled over time, as if it was a gigantic
+    LEGO castle.
+
+      @h0p3 / 2019-12-25
+
+      I agree there is something crucial about "now." The relationship between
+      one's immediate lived conscious experience and one's [[4DID]] is not one
+      I understand well enough (nor can I, I would argue). They are each
+      necessary for the other's significance. I cannot decouple that
+      dependency. They appear both inseparable and distinct. What it means for
+      one to empathize with [[The Other]] is the task of the autonomous self.
+      Can we change ourselves long-term? Yes; it stands to reason, though:
+      there are sacrificially violent costs at times (and in both directions).
+      The [[infinigress]]es of desire satisfaction and suffering sometimes only
+      beget more suffering in some cases. I'm a grotesque and foolish monster
+      here, and I am sorry.
+
+      [[^sliver^]]
+
+      I agree that I cannot, either ([[fff]] by definition); we can only get
+      closer to increasingly fit models of the thing-in-itself. Part of the
+      problem is that we cannot hold a hyperobject in our focus all at once
+      (and, generally, the term is reserved for being well beyond the extreme
+      limits of one's focus), which is why we are lossy empirical creatures.
+      While I do not have certain proof: I suggest it is also why we must
+      iteratively diffuse and lose focus of it as a means to improving our
+      focus over time (it reminds me of falling asleep and waking up again,
+      packing and unpacking, [[faith]] in continuity and change, my ignorance
+      of limits, and the meaning beyond the bottom of proofs).
+
+    But what I wonder is: are the old models relevant to the ‘now’ model?
+
+      @h0p3 / 2019-12-25
+
+      Yes, to varying [[dok]]. The truth matters objectively, though it doesn't
+      always matter to the subject so clearly, distinctly, directly, or
+      completely (and, there is a difference between description and
+      prescription here). Relevant in what way? There are many cases in which
+      directly trying to model the past in the present is not the fitting use
+      of one's ray of intentionality (nor to various parts which comprise or
+      give rise to it). That doesn't make the old completely irrelevant to the
+      new or the now, though it may sometimes feel that way.
+
+    Can I render all models useless in an instant?
+
+      @h0p3 / 2019-12-25
+
+      Useless [[to what|gfwiwcgws]]? Can you make it appear useless to you, as
+      one might perceive and wield it in the 'now'? Yes. To varying [[dok]],
+      sometimes that rendering is up to us, and sometimes it is not. It is not
+      easy to know what is up to us, and that's part of what makes rendering
+      what matters a hard problem.
+
+    Perhaps, in modeling, I look
+    back and see the model of me - and suddenly want nothing to do with it.
+
+      @h0p3 / 2019-12-25
+
+      Sometimes you should have as little to do with it to various [[dok]] as
+      you can, and insofar as it is up to you, it is rational not to have
+      anything to do with it in that particular [[dok]]. The unknown contingent
+      space of that timeslice is something you must wisely determine.
+
+    Or perhaps it’s more light-hearted than that - it’s time for a drastic change.
+    Or I’m just embarassed - that seems likely!
+
+      @h0p3 / 2019-12-25
+
+      You sound like Saint Frankl to me, [[kicks]]. I sometimes wonder if, or
+      [[W5H]] and to what [[dok]] (and what it means to say): there is some
+      heavy-hearted/minded tradeoff cost to the light-hearted/minded, and vv.
+
+    I’m not suggesting that the models are flawed - to all the people I know who
+    have gone through the death of many family members at once, this model
+    becomes quite precious. For the memories it holds, but also because you
+    don’t want to lose who you are through the process. You rely on the history
+    of yourself to help you not lose yourself to an internally destructive
+    force that wants to kill you.
+
+    But then - there are things from ourselves that we can’t take with us
+    always. Ideas become outdated, of course. And then, like losing someone who
+    we’ve had plans with, who suddenly is gone, any of our plans or projects
+    might not survive in the present.
+
+      @h0p3 / 2019-12-25
+
+      I'm sorry. I can sit here quietly, babble nervously, or search for a way
+      to take your mind off it. You pick. I don't want to directly nitpick here
+      without you telling me to do so. This place is radioactive. At the very
+      least, I hope it does not cause cancer, and beyond my dreams, I hope a
+      good mutation emerges. Even if I'm not bleeding out, I am lost in the
+      desert here.
+
+    This also relates to the discussion about clarifying ‘wonderful’.
+
+      @h0p3 / 2019-12-25
+
+      Indeed, it does. I appreciate your willingness to attempt to clarify this
+      for me. This must have been a very costly thing to say; it feels like an
+      exceptionally heavy meteorite to me. I hope you will one day forgive me
+      for failing to be the surgical listener and virtuous interlocutor you
+      need.
+
+    ---
+    @h0p3 / 2019-12-25
+
+    |                                              ,,
+    | `7MM"""Mq.                                 `7MM                                      OO
+    |   MM   `MM.                                  MM                                      88
+    |   MM   ,M9 `7Mb,od8 .gP"Ya   ,6"Yb.  ,p6"bo  MMpMMMb.          `7M'   `MF',pW"Wq.    ||
+    |   MMmmdM9    MM' "',M'   Yb 8)   MM 6M'  OO  MM    MM            VA   ,V 6W'   `Wb   ||
+    |   MM         MM    8M""""""  ,pm9MM 8M       MM    MM             VA ,V  8M     M8   `'
+    |   MM         MM    YM.    , 8M   MM YM.    , MM    MM   ,,         VVV   YA.   ,A9   ,,
+    | .JMML.     .JMML.   `Mbmmd' `Moo9^Yo.YMbmd'.JMML  JMML. dg         ,V     `Ybmd9'    db
+    |                                                         ,j        ,V
+    |                                                        ,'      OOb"
+
+
+    Fuck, dude. Yeah, plain as day, you found the words just fine. I am
+    listening, despite the fact that I'm a retarded brute. Ignore my broken
+    thoughts, feeling, or questions for clarification at will, please. Like a
+    donkey of a Donqui, I'm racing in and out to find a working model for you.
+    I have no talent for weaving the necessary bandages, but I will try. I wish
+    I knew how to graft my own skin onto your wounds. I don't know how to bear
+    what cannot be fixed well enough either.
+
+    I am convinced that [[Self-Dialectics]] are hard problems. Even in the
+    pursuit of peace in both now and [[other]]wise, you will sometimes be at
+    war with yourself or yourselves, in various parts and [[dok]]. I'm
+    fundamentally unqualified to speak about many aspects of what it means for
+    that to be precious, and I'm certain of that. You obviously know that well
+    beyond what either of us can articulate.
+
+    I also have so little room to talk about what I take to be an internally
+    destructive force (a part, a process) that wants to kill, sever, or be free
+    of an outer whole. I'm not qualified, and I don't know anyone who is. Even
+    as a feeling and raw desire, how does one reconstructively respond to
+    deconstruction [[irwartfrr]]? No doubt, there is a time and a place in
+    which one must forego attempting to reason with unreason. But, you are
+    correct, it requires a memory, data, a model, to have the material with
+    which to be constructive in handling and processing that force. You
+    obviously know that well beyond what either of us can articulate.
+
+    Do I think you live in a unique hell sometimes? Yeah, always. This is a
+    deep part of the ocean; if you deem it necessary, you may need to breathe
+    from my tank before we can reach the surface (sorry about my filthy
+    mouthpiece and sharply disgusting air). I wish I knew how to be calm in
+    that chaos. I am the wrong person for you, [[kicks]]. You require healing
+    so far beyond me, that I'm terrified I'm pointlessly hurting you in just
+    asking to listen to you (let alone talking with you about it).
+
+    I don't know well enough what it means for parts of us to die, nor [[W5H]]
+    to engage or accept it wisely enough. What does it mean to cooperate,
+    negotiate, and work with this destructive force? I do not know.
+
+  Yes, it matters who we are, especially since what matters about who we are
+  can't be solely defined by us. It matters [[W5H]] we attempt to represent
+  ourselves, and fiction matters at least with respect to how it serves reality.
+  If I recognize it as such, I try to ask myself, "What is this fiction for?"
+  The purpose of fiction is part of its meaning.
+
+---
+@chameleon / 2019-12-04 20:58 CST
+
+I started the wiki out of writer's block on my blog, and it quickly grew into
+something I actually had fun working on. But what it's //for// is an
+interesting question.
+
+The subtitle is "things chameleon knows" and I feel like that encapsulates it.
+To me this is a website to throw my ideas to the wall and see what sticks.
+It's obviously not every last thing I know, but it covers a broad spectrum of
+my interests and ideas.
+---
+@kickscondor / 2019-12-10
+
+Yes, this seems like ‘self-modeling’. Keep going. Why do it publicly?
+---
+@chameleon / 2019-12-12 03:18 CST
+
+It's fun. It lets people see what I'm working on, and thus opens collaboration
+opportunities ([[Zodai|https://wiki.waifu.haus/#Zodai]] and I have already toyed
+with this, outside of our little clique). And more than a little emulation/hero
+worship. I'm young and romantic at heart and like to copy things that my
+[[Senpai|https://wiki.waifu.haus/#Senpai]]s do.
+---
+@kickscondor / 2019-12-03
+
+@sphygmus With h0p3, I think I am more curious about the ‘self-modeling’ part of the
+phrase - but with you I definitely wonder more about the ‘public’ part. It
+sounds like you’re looking for kindred
+spirits.
+
+  But you also keep a lot of things private - and you do explain this
+  from a curatorial angle:
+
+  <<<
+  Perhaps it’s confusing to stumble upon a website where everything is
+  mashed together — the mundane details of what I ate yesterday right
+  alongside finished letters, notes on projects, and my drafting of this response.
+  <<<
+
+  How do you decide what to reveal and what to make public? (I ask because
+  I haven’t resolved this for myself either - whereas I think h0p3 has made
+  this line very easy for himself.)<<footnote "k:[2]" "This also seems very
+  pertinent to the question of ‘public self-modeling’, since h0p3 begins
+  defining this phrase by exhorting people to ‘deprivatize’ themselves. ">>
+  ---
+  @sphygmus / 2019-12-08 / %40%3A hypertext 2020%3A public modeling
+
+  <<<
+  “I don't know, I don't want to talk as much. (...) It's nicer to think dear,
+  pretty thoughts and keep them in one's heart, like treasures. I don't like to
+  have them laughed at or wondered over.”
+
+  --- Anne of Green Gables
+  <<<
+
+---
+@sphygmus / 2019-12-08 / %40%3A hypertext 2020%3A public modeling
+
+yes, I think so! I certainly don't think I started off looking for them -- I
+started off just wanting to participate on at least slightly more even ground
+when writing letters to h0p3, and well, now I have web-mention-receiving set up
+and I'm participating in this conversation with the group, so. Kindred
+spirits<<footnote "s" "h0p3 gets me, in the constant question asking and digging
+and writing and -- let's drag out every detail of our feet and compare the
+wrinkles! (this is just a generalization; whatever formal moves I may have in my
+writing, h0p3 is the actual academic philosopher here.) I feel like you're
+fascinated watching the dissection occurring and transforming -- from h0p3 on
+his own to my wandering in and setting up another pile, to all the other wikis
+that have joined in their own ways -- wondering and asking questions and
+participating in your own way, but perhaps less invested in the fountain of
+gore in-and-of-itself! And all of this is ''great'' --- and thank goodness we're
+all together on the internet and can take a step backwards for a little breather
+when it all gets too nutty!">> it is. :)
+
+<<<
+Kindred spirits are not so scarce as I used to think. It's splendid to find
+out there are so many of them in the world.
+<<<
+---
+@h0p3 / 2019-12-01
+
+^polished^ I'm not handing you simply some
+polished product; I'm handing you the chain of [evidence, custody, and
+contexts], as soup to nuts as I can (the residue buried timelapsed-art is
+also a product). I think it's also deeply concerned with method, finding
+ways to cooperate in this radically hard problem, and learning how to
+autonomously construct our own processes, including fairly calculating a
+model of [[The End]].
+---
+@kickscondor / 2019-12-03
+
+This is a great point! I forget that you are already employing a lot of
+self-editing and self-curating. (And what you do with us - making a
+tiddler for Sphygmus that curates her, in a way.) So this is starting to
+lead into my next prompt, what you refer to here as ‘the chain’
+(but which I also think of as hypertext ‘layers’)… let me think how to
+articulate this and I’ll get back to you. ‘Soup to nuts’ is one way of putting
+it, but it’s imprecise, it’s not just a linear progression toward ‘the end’ -
+or it doesn’t have to be, I guess.
+---
+@sphygmus / 2019-12-07 / %40%3A hypertext 2020%3A directories %26 linking
+
+So, while we're here, talking in this sort of meta-space of conversation ---
+
+  @sphygmus / 2018-08-27 / 180827%20%E2%80%93%20Log%3A%20And%20The%20Beat%20Goes%20On
+
+  I just - I keep trying to figure out what the point behind social media is, or
+  why we should use it, if we should use it at all...what purpose is it serving
+  us?
+
+  though - the question of "what good is social media to our society and
+  humankind in general?" is not the same as the question "what good is social
+  media to me?" the latter is really what's subjectively important to me, right?
+  what are my feelings about it? does it make me feel good, or inspired, or
+  dragged down? etc.
+
+  I think right now, it feels like information overload. at least the
+  consumption part. Especially since school started, I'm about at my maximum
+  info processing capability right now.
+
+  anyway I suppose there's some things to feel through here. because I don't
+  need to have my feelings all figured out before I take action - that's the
+  imperfect action. and there's 100% fear there, both the fear that someone will
+  interact with me, and that nobody will, at the same time.
+  ---
+  @sphygmus / 2018-10-07 / 181007%20%E2%80%93%20Sphygmus%3A%20Auditing%3B%20draft
+
+  emptying out my links from my phone into my wiki made me feel information
+  overload; but it seems to be linked to lacking a meaningful paradigm through
+  which to make sense of the information? I see my wiki as helping with that -
+  were I to go through my old journals, I think the search for salience would
+  help transition it from feeling overwhelming to good/right/meaningful. With my
+  wiki I'm starting to trace my steps through hyperspace and write down my
+  thoughts as I go - not just sponging info but taking an active role in
+  thinking about it? like - almost prioritizing writing down my thoughts, rather
+  than reading the most links.
+
+  ...Because we all can read the same thing and we'll all get different things
+  out of it and connect it to our individual experiences and - //fuck. yes.//
+  this is the solution to the "information overload," right?! to encourage
+  people in building their own meaningful structures out of all the material
+  around us?! ''this feels so right.'' and being able to hop into someone else's
+  meanings and read them and then link them into your own - networks of
+  individual meanings?
+  ---
+  @kickscondor / - / /stenos/the-weblog-handbook
+
+  p. 12. “For everyone, the great task of the future will not be to gain access
+  to more information, but to develop avenues to information that genuinely
+  enhances our understanding, and to screen out the rest.” //(Yes, ok, here we
+  go. I think we can all agree with this. And this makes me think of the
+  ‘layers’ I mentioned in Notes: We’ve Got Blog (2002) - layers of reading,
+  layers of writing. Social media is too raw - it’s all random snippets of text,
+  no summaries. I need high-level views of the information, then the ability to
+  zoom into the details. A ‘layer’ is a level of detail - and it includes both
+  a measure of polish and quality, as well as a measure of intimacy with the
+  topic or person.)//
+
+I wonder about directories, linking, "browsing the internet" and so forth. This
+is mainly directed at kicks, but I'd love to hear the whole group's thoughts as
+well.
+
+Kicks, do you ever deal with information overload? Like, you're browsing and
+surfing and discovering personal websites and interesting articles and now
+you've got 10, 15, 20 tabs<<footnote "tb" "100s?!??!">> open and they all seem
+like cool rabbit holes and you're not quite sure where to go next? Or what it
+all means anymore? (maybe that's just me.)
+
+---
+@kickscondor / 2019-12-10
+
+I have experienced this in the past - and I still experience this with books.
+Although I’m not sure it’s the same. What I experience is //gah, I’m not
+spending enough time reading all the things I want to read, finding all the
+things I want to discover, given how much there is!!// And I assume that’s what
+people mean when they say ‘information overload’. (Your image of so many tabs.)
+
+Is it actually ‘overload’? Or is it that there is infinite information (and
+there was a century ago) and you’re feeling some inability to approach it?
+
+  Which, in my case, has usually been about losing my discipline for a time span.
+
+  But I am spending the right amount of time reading online right now - and I have
+  a very long list to work through that is in a sensible order. (I no longer have
+  tabs open - I do have a link list, so that has helped.) I am not spending enough
+  time reading books.
+
+If I spend enough hours each week, I feel like I am at least
+methodically working through the infinite mass and I feel healthy.
+---
+@sphygmus / 2019-12-07
+
+Does curation help? Like -- you're
+specifically looking for cool people doing cool things in obscurity and you want
+to let us folks in your corner of the world know -- so does the endless array of
+cool people doing cool things feel overwhelming or invigorating or? (I get the
+sense it might be the opposite, that you feel like it's hard to find cool people
+doing cool things. correct me here!)
+
+  This is also what helped get me into h0p3 (and you and chamy, because you follow the same conventions): because you clearly mark dated, temporary notes vs longer, central nodes or essays. So it is very easy to know where to ‘start’. Which is appreciated when I am discovering someone and want to move from the polished stuff down to the day-to-day stuff.
+  How much time do you spend hiking down rabbit holes? When do you know when to
+  stop? Do you have dedicated sessions to browsing, where you just wander and
+  earmark links for later? What makes you earmark a site to share -- just that it
+  makes you go "cool!" or is there something else? How much time do you spend
+  digging around in a site before you give it the yay or nay? Is there a sort of
+  qualitative "this site meets x qualities I'm looking for" or is it much more
+  subjective than that?
+  ---
+  @kickscondor / 2019-12-10
+
+  I do wish I was aware of more black writers. I know there is a tendency to do
+  this out of guilt or political activism. But I simply feel like black writers
+  have an unusual angle. I think this is why black artists are popular in
+  mainstream culture - subconsciously we know that they are outliers and can show
+  us what it means to be human in a totally unexpected way. I mean I am definitely
+  interested in anyone out there, regardless of their race - but among Americans,
+  I think black artists have shown that they are always on the avant garde of
+  cultural movements.
+
+  So, at the same time, it is difficult to find certain subcultures that you may
+  want to find. (I would also love to find a really sweet fitness goth blog.
+  Especially if it was a .onion site.)
+  ---
+  @sphygmus / 2019-12-07
+
+  are you casting wide nets or deep nets? and does this relate to the connection
+  vs depth you mentioned in your letter? this is where fraidycat comes in, I
+  think -- to keep an eye on a large net of people without ingesting everything
+  they create. How do you avoid FOMO with what they're creating? deal with knowing
+  there's ''so much'' out there that it's impossible to keep up with everything
+  //and// read all the great classics? (again, does curation help with that
+  feeling?)
+
+  yeah! and not just browsing, I'm also curious about how all this relates to
+  articles you read, newsletters you're subscribed to -- how much of it do you
+  keep up with? how much of it do you let go of?
+
+    re-watching your most recent fraidycat video, perhaps that's just my answer -- a
+    simple overview you use to keep tabs on people (but then I still wonder about
+    depth; where do you dig in?).
+    ---
+    @kickscondor / 2019-12-10
+
+    When I do find someone that I really really REAALLY connect with - then I
+    greedily spam that link wherever I can - in my notes, into Fraidycat, I
+    recite it in my mind. I am so afraid of losing it. And it means that I begin
+    to visit that site very frequently, to try to read everything that I can.
+    When I found [[Ton’s blog|https://www.zylstra.org/blog/]], it was like that.
+    And I was very appreciative that I could tell which posts were ephemeral and
+    which were polished, finalized essays.
+
+---
+@kickscondor / 2019-12-10
+
+It’s so cool to me that you care to ask me a question like this! That, alone,
+makes me feel like there are plenty of ‘cool people doing cool things’. Even if
+it was just you and me - that would be enough.
+
+No, I feel like there are many more cool people than I can possibly be aware of.
+I worry sometimes that I have no sensibility. I honestly find something amazing
+in almost everyone I discover. If they are working in hypertext, it feels like
+I can count on it. And yeah – it’s invigorating.
+---
+@sphygmus / 2019-12-15
+
+I know I've been drawn to people who appear to be on a mission because I'm
+unconsciously hunting for what I perceive them to have -- maybe by learning
+enough from them I learn what piece is missing from me, maybe if I absorb
+enough of their work the spark will rub off and I'll have a mission too.
+
+It's hard to imagine being someone who's not hunting for a mission in others
+but who has found and is pursuing the answer to the point where it spills out
+so much and attracts others who were where I used to be.
+
+I'm at the point where writing those paragraphs feels almost like that's just
+a story I'm still telling myself; that I'm on the brink of ''knowing'' and
+''doing'' -- like I'm telling myself I don't know where I'm going and another
+part of me is giving me a massive side-eye like //yo, really? just stop
+fibbing because you feel afraid, because of maybe and what if and but I could
+fail.//
+---
+@h0p3 / 2019-12-12 15:55 EST
+
+I would argue that everyone here is wrestling with the values and
+vulnerabilities of being human and doing human work with each other so
+publically. Unlike me, you all are nice and kind people (even your vitriol is
+generally hilarious),<<footnote "h:igh" "Also, I don't think you want to see me
+in yoga pants (the ass was not delectably fat), but upon possible request:
+http://hwikiea2zykn5hdkmf4srti5gglqv5gspqt37opxnhtjdvureonvjoyd.onion/.">> so
+it's hard to fathom that you would have profound enemies. We're all going to
+have people who don't like us, and while I think the odds of your persecution
+are low, they do exist. Right now, even out in the open, it's hard for anyone to
+figure out what we are doing here.<<footnote "h:adh" "Even seasoned computer
+users generally can't or won't take the time to dig and piece it together. It's
+expensive. Of course, I can't say I really know what we're doing here well
+enough either.">> Perhaps there's some security through obscurity, atm. Call me
+paranoid,<<footnote "h:cmp" "You know where I think the world is headed. You
+know I'm fucking crazy too.">> but I think there's a non-trivial chance I will
+face actionable hatred.<<footnote "h:fah" "Mind you, I don't think all hatred
+is wrong. In this case, I'm not talking about simply facing antagonizing memetic
+jabs, evil eyes, getting-in-your-face punking, trolling, mean-mugging,
+shittalking, mocking, sarcastic faceslapping, etc.">> There are already people
+who try to break into my accounts and phish me,<<footnote "h:apm" "And, if you
+are reading this: <3">> and I recognize it might get worse.
+
+  I am still surprised and honored that you join me in this absurd [[FTO]] venture
+  of being a [[PSM]]. At the very least, it's rad (though I think far more than
+  that). I'm grateful for the lightness and wandering of our discussion.<<footnote
+  "h:taw" "I don't wish to derail it. y so srs? As always, I am the worst; I only
+  think about happy things ;P.">> I'm sorry to ask, but I have some uncomfortable,
+  buzzkill, scaremonger questions;<<footnote "h:bsq" "It's my moral obligation to
+  pushback, even against my own point of view.">> maybe it's best we pass over
+  them (I leave that up to you).
+
+How much risk do we each face?
+
+  Why is this [[PSM]] work worth the risk to you?
+  ---
+  @sphygmus / 2019-12-15
+
+  My answer might change if the risk was immediately impacting me. If I ever
+  stop writing in this wiki, perhaps I've come face to face with danger that has
+  forced me to stop publishing it for my own safety. Depending on what that
+  might be, I hope I've got enough supplies around to locally self-host my wiki
+  on my computer. (xavier, I'll use you as a server if I have to. (`<insert
+  afternoon researching home servers/NAS>`))
+
+  This question is more oriented at the //public// angle of the self-modelling,
+  right? As my animal-brain doesn't feel any risk presently, it's worth it to
+  engage in this hyperconversation with you and kicks and chamy. When I have
+  //felt// risk (real or not), I tend to retreat from the public side, feel it
+  out more. I'm not letting go of this wiki, though, or my journals, or the
+  random text files on my desktop. I've heard artists describe it being
+  impossible for them to //not// draw or doodle or sketch -- I feel that with my
+  writing; I pause at times but I don't think I could actually go cold-turkey
+  from writing for an extended period of time. Writing is something I //have//
+  to do. Its publicity is just a side effect of writing letters to h0p3 in a
+  wiki.
+  ---
+  @h0p3 / 2019-12-12 15:55 EST
+
+  Are you prepared to face people threatening you, breaking into your accounts,
+  physically endangering you, and so forth?
+  ---
+  @sphygmus / 2019-12-15
+
+  I've hardened my private wiki server to the best of my ability, but someone
+  could probably get into it if they were really trying. It should be pretty
+  separate from important offline accounts, though, so I don't know what good
+  that would do them.
+
+  Threats... well, depends on the threats, I suppose? I never frequented the
+  chans or chatrooms or any of the other ways people are exposed to internet
+  dickery; probably the worst experience I've had with other people online
+  would be dumb or otherwise annoying responses to my occasional reddit posts.
+  I assume this means I don't have the thick skin developed by y'all who
+  frequented those spaces.
+
+  I'm in no way prepared for physical endangerment, whether the source of that
+  violence is my wiki or some other aspect of my online life. I often feel
+  endangered by people I don't know from AD when I'm driving down the highway,
+  though, so the likelihood of physical violence being triggered by <<sus>>
+  feels inconsequential in comparison.<<footnote "nt" "but I walked 40 minutes
+  from the Chicago Garfield Red Line station to my dorm after 2 AM in February,
+  and apparently do more solo travel than some women feel comfortable with, so
+  my capacity to assess danger might be a little screwy.">>
+  ---
+  @h0p3 / 2019-12-12 15:55 EST
+
+  How would you feel if a decade from now a million people started combing
+  through and [[deepreading]] your wiki?
+  ---
+  @sphygmus / 2019-12-15
+
+  I think that depends on how my wiki has grown in a decade! Perhaps by then
+  I've done something to address the question that gwern poses: //"what on this
+  massive highly-interlinked website might I want to start reading?"//
+
+  I probably wouldn't know that a million people were deepreading my wiki at
+  first. Is there discussion happening about it? Where is the discussion
+  happening? Unless it gets mentioned by us hypertexters, I might miss it
+  (although if it happened in places that send web mentions, I would receive
+  and notice those).
+
+  I expect I would feel overwhelmed and scared at first, then curious to see
+  what people were saying and why they were reading my wiki and what parts of
+  my wiki they were reading, offended at what appears to me as
+  misinterpretations, thrilled at seeing people making new and unexpected
+  connections.
+  ---
+  @h0p3 / 2019-12-12 15:55 EST
+
+  Call it a pile all you want (lmao), but your wiki is a work of
+  art that could virally explode any day (I'm not saying it will, but it could).
+
+  It's fast, mobile-friendly, intuitively well-structured, approachable,
+  personable, legible, and gorgeous. Instead of being obfuscated and having an
+  offputting barrier to entry, you make a clean entrance for everyone.
+  ---
+  @sphygmus / 2019-12-15
+
+  Thank you! This is part of why I enjoy engaging with you all like this -- so
+  often I'm embedded in what I'm doing that I can't get the perspective to see
+  what I'm doing from a distance. You reflect that back to me and provide me a
+  fresh look. //([[see also|181222 – weaving: inside/outside meaning]])//
+  ---
+  @h0p3 / 2019-12-12 15:55 EST
+
+  Are you concerned about your association with an insane person like me?
+  ---
+  @sphygmus / 2019-12-15
+
+  Maybe I should be more concerned than I actually am. Your version of insanity
+  and paranoia is familiar to me, so I've already been resigned to being on one
+  mysterious entity's list or another for a while.
+  ---
+  @h0p3 / 2019-12-12 15:55 EST
+
+  Maybe you should be. I know of at least one person who speaks with me who is
+  a virulent white supremacist who thinks we should kill, punish, or enslave
+  anyone who isn't a cis, white, straight, American male. He can see you! He and
+  his family interact with scores of communities who read The Daily Stormer (and
+  so forth). He literally hates you without even knowing you, [[chameleon]]. He
+  lives in driving distance of both of us.
+
+    @sphygmus / 2019-12-15
+
+    I often walk past a truck in the parking garage at work with a thin blue
+    line sticker on its rear windshield. Who else at my workplace harbors
+    beliefs similar to the person you mention? I'm probably more in danger from
+    the locals around me than from people who know you.
+
+  Even you [[kicks]], low-profile as you are in some respects, many people find
+  you perplexing, and I know some who straight-up don't like you just because you
+  are weird (I take it to be my job to vouch and reason with them about the value
+  of [[other]]ness and uniqueness).
+
+  What do you want my wiki and [[RGM]] to become to protect you?
+  ---
+  @chameleon / 2019-12-12 19:23 CST
+
+  Keep my real name in your meat-memory and your meat-memory alone, along with
+  anything that can reasonably lead to me or my loved ones' real name, location,
+  place of work, etc. being discovered by a motivated individual.
+  ---
+  @sphygmus / 2019-12-15
+
+  I don't have a good answer to this question. From my perspective, you've
+  already taken the steps that make me feel more protected, and I don't know
+  what else there is to do!
+
+---
+@chameleon / 2019-12-12 19:23 CST
+
+Minimal, imo. I've been friends with much more dangerous individuals than the
+types that are likely to stumble across my wiki; and the wiki isn't really
+connected to my irl identity anyways apart from some vague gesturings towards
+locations, and even then I'm likely to just be lost in the crowd. The worst that
+will happen is that people will point and laugh, and I can take that.
+
+  And hey, at the risk of sounding edgy, I can defend myself. Your white
+  supremacist buddy, if he can even find me (he can't) will be enjoying a bullet
+  in his dome if he ever comes near me.
+
+  Besides that, I'm not terribly interesting and thus wouldn't make a very good
+  target. The narcissistic focus of the wiki betrays the fact that I'm actually
+  rather boring and milquetoast; I'm barely even politically active besides
+  doing my civic duty of voting.
+
+---
+@sphygmus / 2019-12-15
+
+It varies for all of us, I'm sure. This wiki is 100% vulnerable to doxxing.
+Elsewhere, my life leaks everywhere, and I fail to contain it. I'm trying to be
+better about compartmentalizing different arenas from each other, using multiple
+usernames where before I used one username everywhere. But I don't want to kid
+myself either -- the tracking corporations have fingerprinted my browser and my
+browsing patterns and probably collect enough data know when I hit a web page
+even when I've traveled across the country. At this point, after being on the
+internet for 13 years (exactly half my life right now), I can't go back and
+start fresh again with no fingerprint, so I can only aim to do my best (and fail
+at even that).
+---
+@h0p3 / 2019-12-12 15:55 EST
+
+Anyway, aside, one thing I like about our [[hyperconversation]], including this
+more focused groupchat-style: it feels like I'm sitting in the same room with
+you all rabbitholing where we please, often well beyond the surface.
+---
+@sphygmus / 2019-12-23
+
+I'd like to propose this question as our next point of conversation:
+
+<<<
+//"what on this massive highly-interlinked website might I want to start
+reading?"//
+<<<
+
+    @chameleon / 2020-01-12 17:15 CST
+
+    Where do you start? [[Root]]? The tag list?
+
+    What are you looking for?
+
+    Can I provide it?
+
+      @h0p3 / 2020-01-17 15:18 EST
+
+      I think that's the real issue. We get to be librarians about ourselves
+      for [[others]]. It's a human that picks it out at least sometimes, even
+      if assisted by some crucial cataloging strategies and search tools. I'm
+      convinced we serve up who we are to others in a way they can wander on
+      their own, but we also serve as a live-ish helpdesk to our own [[PSM]]s.
+      A librarian has to interview the user to understand what they need or
+      want. You provide some one-size-fits-all approaches, and then you are
+      well-positioned to work on the exceptions.
+
+    I don't know. Inspired by kicks' and h0p3's comments, I wrote
+    [[ReadMe|https://wiki.waifu.haus/#ReadMe]]. Maybe that'll provide some
+    direction. Maybe it'll just confuse the travelers even more.
+
+kicks, I think you already address this in your FILE_ID pop-up -- would you say
+more about how you thought about what to put there?
+---
+@kickscondor / 2020-01-05
+
+Well, that file is kind of my personal website, but it’s hidden inside of a
+little square. I like my site to be disorienting to happen upon, because I
+think it demands a bit of curiosity as an admission fee. (I think you do this
+too with your KEEP OUT notebook. It has lips on it, which soften the sting.)
+
+  @h0p3 / 2020-01-26 14:27 EST
+
+  Yup! =). You are inviting, and your price is gentle. You reward degrees of
+  curiosity. It generates valuable chatter, imho; some connections being
+  stronger than others. I think you initiate the [[T42T]] handshake in making
+  it available, but the funnel or steps for cooperation usefully bounces
+  trolls, [[MOPs|https://meaningness.com/geeks-mops-sociopaths]], vampires, and
+  those who aren't interested in a fair commitment. In contrast, there's often
+  a darker vertigo factor and blood sacrifice to speak with me at length
+  (beyond pleasantries). I appreciate your lightness in this regard.
+  ---
+  @kickscondor / 2020-01-05
+
+  But I’m so big on directories - it occured to me that I could evolve the
+  ‘pinned post’ into something like a mini-directory. h0p3’s ‘root’ page is much
+  more detailed - it’s five pages in one - and each page is terrifically long. I
+  just tried to think about what a mini-directory or cover page would look like.
+
+  I also like to hide it because talking about myself is very uncomfortable. I
+  feel very insignificant - but I like it that way - to have to feel that my own
+  ideas or personality or opinions are very valuable - that would be too much to
+  handle. I’d rather have little ideas and wrong ideas of my own - and just be a
+  random person living life and no need to size up what I’m saying against the
+  great ideas of history - no need to establish some track record of being right
+  or upstanding.<<footnote "k:[3]" "Although I do get caught up in the allure of
+  cultural commentary and trying to articulate a perspective that, in the moment,
+  might feel ‘right’ - I only hope these are taken as good fun and not as
+  objective truth.">>
+
+  So sometimes I think about getting rid of it - it seems like an advertisement
+  for myself. But I hold out hope that I can make it a mini-directory and
+  eliminate the self-promotional aspects. (On the other hand, I want to encourage
+  other people to self-promote, so I don’t know why I see it as so shameful to
+  write that way - when I like for other people to do it.)
+  ---
+  @h0p3 / 2020-01-26 14:27 EST
+
+  I often feel like your goal is to help people feel comfortable being
+  themselves, celebrating being human, and cutting through some of the
+  attitudes which have arisen in the market dynamics of the commodified web.
+---
+@sphygmus / 2019-12-23
+
+This is something I did a little bit in the //very// first iteration of
+\/\/sphygm.us that I published -- sort of an index page that linked to
+projects -- but not something that really exists on my site right now. h0p3,
+your Root seems to serve this purpose in a brief way right now? Chamy, it looks
+like you address this in a way with linked tags in your Root.
+
+Are there things us wikis could be doing to better serve readers? Is it
+important for us to attempt to provide something like this for readers? Should
+it look like Gwern's index, or is there a more wiki-native solution that might
+be more ideal?
+---
+@kickscondor / 2020-01-05
+
+I don’t know - the thing I’ve really enjoyed about your public wikis is that
+I’ve had to learn your conventions before getting into them. I think you
+require something from your readers - and I think that sets up a really
+healthy relationship that the rest of the Internet has struggled with. It’s
+not their place; it’s yours. And that’s abundantly clear. But when I became
+comfortable in your wiki, you may have trusted that I had done sufficient
+work to be worth interacting with.
+
+  But then again, I like funneling and there would be no cone without the
+  point. Yours is a static image - but it’s also the colored tags to the side.
+  I think you set the right mood for what it is you’re doing. Sometimes I wish
+  I was structured more like a wiki - but stylistically I’m trying to evoke a
+  turn of the century blog - and aesthetic is important to me, because it
+  surrounds everything else. It accomplishes something that can’t be expressed
+  or done any other way.
+
+---
+@h0p3 / 2019-12-25 / 2019.12.01%20-%20Antipleonasm%20Analysis%3A%20Telic%20Drafting
+
+Reading this wiki is far too much work. Surely, there are so many more pleasant
+things to do with your life. Why start at all? Lol.
+---
+@kickscondor / 2020-01-05
+
+Yeah, ok - let’s get into this. What has really inspired me about all of your
+wikis - and some of the newer personal websites I’ve run into - is this
+layering of the hypertext. h0p3 has the ‘about’ page, people might have a
+timeline or a ‘now’ page on their site, even Twitter with its ‘pinned post’ -
+you don’t just have to have a blog that drops you into chronological posts.
+---
+@h0p3 / 2019-12-25 / 2019.12.01%20-%20Antipleonasm%20Analysis%3A%20Telic%20Drafting
+
+Of course, I do not have a practical answer which is satisfactory for this one.
+I would like to know how to give a simple, linear, and almost cut-and-dry
+answer to that question in the various contexts that matter. I'm particularly
+awful at determining which doorways are most valuable for a given person+time
+or even the average person. Additionally, what I consider most [[salient]]
+about the site is likely not what most people do, and we can all be wrong for
+various reasons about that.
+
+  @h0p3 / 2019-12-25 / 2019.12.01%20-%20Antipleonasm%20Analysis%3A%20Telic%20Drafting
+
+  Sometimes, I think that question is really
+  intending to ask instead: Who do you want your readers to be?
+  <<footnotes "i" "I am open to the possibility that machine-assisted reading
+  of this wiki (beyond the fact that it's already a digital medium) will be
+  necessary. Crazy as it sounds, I remain open to the possibility that a
+  non-human intelligence will //read// it as well.">> Why do
+  you want them to read it? I think there's a difference between what someone
+  would want to read and what they ought; I'm interested in the former only in
+  virtue of the latter. <<footnotes "a" "Reason #23490834 this wiki will not be
+  read by almost anyone.">>
+
+There are some places that tend to be more relevant than others. [[Readme]] is
+something every new reader should read, but the issue of where best to "start"
+is something that anyone can reasonably ask, including me on any given day
+(and, that is what I take myself to be doing, [[WINTCIS]]). While I grant there
+is a set of correct (or ranked in terms of relevance) answers in a given
+context (or maxim), I can't say I know how to put my finger on it well enough.
+If I did, I would have solved some fundamental problems in moral philosophy.
+
+Like any particular perspective in the world, a site ought not treat everything
+equally in all cases. The goal, on average, I take it, is to pick out in relief
+what matters most instead of flattening it. That is a crazy hard problem.
+---
+@kickscondor / 2020-01-05
+
+I’m starting to think of it as
+//funneling//, having layers of hypertext that become progressively more
+personal, or which become more detailed, or perhaps even more (or less)
+ephemeral as you go through the layers.
+
+  I think part of this is an evolution of the fragmentation that has happened in
+  social networks. People may use Twitter for a certain self-image or community,
+  then Facebook or a blog for another mode, and people have become very
+  accustomed to using each network as a separate outlet. And there’s a nice
+  advantage to this - because you can address groups differently and not expose
+  certain groups to overly personal material or control the image you project in
+  each network.
+
+  In a similar way, I see this with Nadia Eghbal’s site - she has a newsletter
+  for offering a monthly summary of her work, or there is the blog where you can
+  read essays when they are published, and then she has a raw
+  [[notes|https://nadiaeghbal.com/notes/]] page that isn’t tied to any
+  notification system (like RSS even), so you have to go out of your way to visit
+  the page to catch anything new. So rather than having separate networks, there
+  are different avenues to how you can approach her work.
+
+Your wikis accomplish these layers using titling conventions. Usually ephemeral
+stuff is marked with a date, letters marked with ‘@’, permanent content is
+plainly titled. But this is also related to your front page material - you all
+know where to hide on your wikis the more personal material that you post and
+how to surface the things that are more central to your dialogue with the rest
+of us. (Sphygmus’ page coloring is a very interesting approach here.)
+
+So I think of this as a kind of inverted funnel - where you have these entry
+points to your wiki - might be an ‘about’ page or it might be one of your
+sidebar directories or some intermediate topical page - and pages are situated
+somewhere in this conical area, perhaps you are even aware of how far a page
+might be from the doorway when you post it. Or which series of doorways reach
+it.
+
+  (//I’m wondering what you think about this concept - what I’ve got wrong or if
+  I’m characterizing your process correctly.//)
+  ---
+  @h0p3 / 2020-01-17 15:18 EST
+
+  It's difficult for me to know what it is like for the reader. I work for that
+  linearity, layering, funneling, and hierarchy. I see structures which emerge
+  or jut out of the ball of chaos. My assumption is that a wanderer is forced
+  into exploring and seeing themselves positioned relative to roads they've
+  been down, and that gets tricky with such a non-linear ball.
+
+---
+@sphygmus / 2020-01-06
+
+The inverted funnel is also a fun metaphor because hey, it kinda looks like an
+iceberg! And our wikis are kinda like icebergs, with the daily logs all deep
+and underneath, and misc bits in the sidebar sticking out of the surface of the
+water.
+
+  @h0p3 / 2020-01-17 15:18 EST
+
+  A higher and higher percentage of my wiki is a log each passing month.
+  Eventually, the iceberg is mostly of one kind of ice. The entrances and
+  skeleton can't be logs though.
+
+---
+@h0p3 / 2019-12-25 / 2019.12.01%20-%20Antipleonasm%20Analysis%3A%20Telic%20Drafting
+
+Some kinds of things, by their very nature, are difficult to uncover, reveal, or
+give a clean structure to (and that can never be completely accomplished by the
+[[fff]]). The question is so striking to me because I'm trying to ask and
+answer that question about the world itself inside this wiki (including this
+wiki). What on this massive highly-interlinked ~~website~~ ~~internet~~ in the
+world might I want to start ~~reading~~ investigating and thinking about? This
+wiki is as generalized a model as I can make it; I take your question to imply:
+what is worth reading out in the world? At least in part, what's relevant in
+this site as it relates to what is outside the site? That must sound like woo,
+hogwash, a complete fucking non-answer.
+<<footnotes "u" "Feel free to argue I take my work and myself far too
+seriously too.">> I wish I could give you a
+better one, but that is very much what this site-vessel's metamodern structure
+is pointing toward through the pomo flooding chaotic sea of meanings.
+<<footnotes "e" "This is a place where I must //show// and not just //tell//.
+While the wiki is a pile, I am proud of //why// it's a pile in this respect.
+Arguably, there's a way in which I do a decent job of demonstrating how hard
+it is to answer that philosophical question in a generalized fashion (it's
+downright a Continental Analytic hybrid, a mix of technical definitions and
+structures with the wandering subjectivity narrative, as qualitative and
+quantitative as I can make it). In addition, I don't think I'm preserving
+[[an entire universe|2018.08.23 - Josiah: Tiff?]], but I do see myself as
+trying to preserve an evolving set of perspectives, and there's an
+[[infinigress]] to being meta about or having yet another functional
+perspective on [[other]] perspectives (even versions of oneself).">>
+
+
+Even Wikipedia, a somewhat homogeneous appearing site, in a sense, ends up
+being something the reader must search (and not everything on Wikipedia is
+equally valuable). I don't see a reason to think my own wiki shouldn't be
+similar beyond a set of entrances that attempt to describe my protocols and
+overall approach. [[Root]], [[Readme]], and the sidebar are the best starting
+places I know of (hence why they are essentially the front page); I use them
+too. You have to bring prior intentional material (and the more consciously
+aware of it you are the better) to the table to figure out what to make of the
+wiki in the right order.
+
+  I have a range of people who have taken a look, and I usually end up pointing
+  to at least slightly different parts of my wiki, [[WINTCIS]]. One thing I
+  refrain from doing much at all is marking for [[others]] what I think is
+  relevant for them in this pile (though this is slowly changing over time, I
+  would argue). I tend to do so in direct conversation where we both have skin in
+  the game. I prefer we pick out the [[salience]] for us (and perhaps beyond)
+  together. It is likely the case that a reader is best served by writing with
+  me. You need to ride me like a sherpa-donkey on the pukevat wasteland pile of a
+  telic cannon.
+  <<footnotes "l" "Assuming you trust me (and likely even if you didn't), at
+  some point, live interaction with [[The Other]] is the most energy-efficient
+  empirical method; eventually, passively reading for the same information is
+  far more expensive both in terms of how much must be read and how much must
+  be simulated.">>
+
+  I [[hope]] in time to eventually have a much cleaner hierarchical/tree answer
+  (though, I suggest it will always be a steep climb in some areas). I don't know
+  well enough what it will look like way down the instrumental road.
+
+---
+@chameleon / 2020-01-12 17:15 CST
+
+The iceberg/inverted funnel idea is lovely. My wiki is a dungeon in the depths
+already, but that it goes so into the deep you may never return... that's a
+scary thought, but fits the aesthetic!
+
+When I first came across h0p3's wiki, I had intense vertigo. I knew there was
+more there than I could ever read. I got scared. I fell back on twitter memes.
+I hunted for reactionary sentiments so I could turn away. The abyss stared
+back. I'm very glad he wrote me, and that I was able to reply. I'm very glad I
+have the wiki. I'm a different person now, a better person for it, in my
+opinion. I like to think I'm one of the good ones™.
+---
+@sphygmus / 2020-01-06
+
+When doing my audits recently I've
+been thinking of it in terms of linking, and distance from discovery (kind of
+like 6 Degrees of Sphygmus). Some tiddlers are only linked to by one or two
+others and are more distant from the surface in that way. The tiddlers with one
+or maybe two links are actually more hidden than the "real" orphans -- at least
+those get their [[own section|$:/core/ui/MoreSideBar/Orphans]].
+
+  @h0p3 / 2020-01-17 15:18 EST
+
+  Yeah, that has to be one of the most interesting issues in reasoning about the
+  wiki structure.  What's really important may pop up there. How should things
+  cluster together? What does it mean to efficiently find what is relevant? The
+  bigger the wiki gets, the more I'm forced to use the search tools, and the less
+  I can navigate it like a directory. Eventually, even I will likely be forced to
+  use more dynamic tooling to navigate ad hoc directory structures in my own wiki
+  with the kin-based [[Locator]].
+  ---
+  @sphygmus / 2020-01-06
+
+  My //on this day// tiddler also surfaces them without context other than the
+  particular day they were created, so the more distantly linked tiddlers might
+  appear there. The older my dated entries are, the more links they're buried
+  behind (log collection > yearly audit > monthly audit > dailies), while the
+  topical tiddlers are pretty high up (either linked directly in my sidebar or
+  one layer below).
+
+    @chameleon / 2020-01-12 17:15 CST
+
+    hm. Some of my tiddlers, too, are buried by time. I use the search bar when
+    writing a //previously.// Even I'm starting to forget what I have buried in
+    here. Ultimately, it does provide a good resource. I've more than once
+    forgotten some minutiæ, gone back through the logs, and found it again.
+    ---
+    @sphygmus / 2020-01-06
+
+    I think I like that this means the older journal entries will "fade" in terms
+    of linking layers. People have to be at least somewhat nosy to poke around in
+    the older daily logs. (unless they're looking at //on this day// ofc.)
+---
+@kickscondor / 2020-01-05
+
+I think the biggest discovery that I’ve made with ‘funneling’ is to have my
+/all unfiltered page<<footnotes "k:[1]" "containing the raw edits, essays, links
+and so on">> and then to have a main page<<footnotes "k:[2]" "expressly made of
+things I want to broadcast on the surface, on the home page.">>.
+To describe it in TiddlyWiki
+terms, it’s as if I’ve taken my ‘recent’ sidebar and curated it on the home
+page. And, rather than using titling conventions to do it, I use metadata - so
+that some entries are marked ‘hidden’ or ‘draft’ and that keeps them off the
+home page.
+---
+@chameleon / 2020-01-12 17:15 CST
+
+Kicks, I forget where, but I made the distinction before: tiddlers VS articles
+VS journals. Tiddlers are the superset, and articles are subject to the
+[[Development Levels]]. Journal
+entries are fleeting things. They will be lost in time if not tagged, but
+they're still there beneath the surface.
+
+  @h0p3 / 2020-01-17 15:18 EST
+
+  I think almost everyone agrees with you here. I don't think it's an easy
+  problem. Like, if the story of our lives is really just ephemeral, if
+  re-using our data doesn't matter, then why write them down (or, rather, why
+  keep them and catalog them, why search through them?)? I re-use some
+  percentage of my journal entries in different ways (beyond [[Know Thyself]]),
+  and I don't know which ones are going to be important up front. What's good
+  log-keeping in computing? I don't know.
+
+  I like your developmental levels. Perhaps when (''if'', who am I kidding? ;P) I
+  get to [[The Remodeling]] again, I'll work toward that in a field. There's
+  something to it. If tiddlers are atoms, I want to know what kinds of project
+  molecules should be assigned development levels and so forth (beyond what I
+  have in [[Hub]]). I have no idea what I'm doing on this front, as usual. =)
+  ---
+  @chameleon / 2019-12-22 / Tiddlers%2C Journal Entries%2C and Articles
+
+  I've used these terms a bit hap-hazardly but I think now I can define them more
+  clearly.
+
+  A tiddler is the raw page unit on tiddlywiki. This is a tiddler. [[Root]] is a
+  tiddler. [[2019.09.27 - Islandpunk]] is a tiddler.
+
+  An article is a non-journal tiddler that uses the [[Development Levels]]
+  system. So [[The Last Waifuist]] is an article, but [[2019.12.10 - roguelikes
+  and OSR]] is not.
+
+  A journal entry is tagged [[Journal]] and begins with a date in the usual
+  format (YYYY.MM.DD on my wiki). So [[2019.10.28 - chame writes a half-decent
+  progression!?]] is a journal entry, [[h0p3]] is not.
+
+  The distinction can be thought of thusly: "tiddler" is like "book"; "article"
+  is like "novel" or "encyclopedia"; "journal entry" is like "diary". A novel is
+  a book, a diary is a book, but a novel is not a diary.
+---
+@kickscondor / 2019-12-24
+
+^now^ I think there is something about ‘now’ which I think is important. We can’t
+satisfy the modeling of ourselves in a moment (‘now’), but we can try to develop
+something over time.
+---
+@h0p3 / 2019-12-25
+
+^sliver^ From what I can tell, there is a fuzzy sliver of time in the pregnant
+present; it doesn't vanish into a single point. We can take developmental
+ticktock steps (though I know not how small nor what it means to divide
+them) toward something in the "now," and there, insofar as those tiny
+timeslices and gunky fragments yet afford us choice (sometimes we are
+only an observer), there is an opportunity for fitting satisfaction in
+context. I think it's terrifying, often absurd.
+---
+@kickscondor / 2020-01-21
+
+Ok, thank you - the answers about ‘funneling’ or ‘iceberging’ or ‘shitpiling’
+or whatever you want to call it are all really interesting. I really like
+chame’s take on drafting as [[another layer|Development Levels]].
+I hadn’t considered that kind of granularity at all.
+
+I guess we can start to wind the discussion down.
+---
+@sphygmus / 2020-01-28 / %40%3A hypertext 2020%3A feelings %26 wires
+
+As we're winding up the discussion here: I think it's important to not slide by
+the potential for each of us as individuals to experience feelings of being
+scared or left out or noticed or ignored or exposed -- simply, feelings in
+general. Said feelings arise in many social contexts (not just this one), and
+the medium of "hypertext"/"hyperconversation" is far from a perfect solution to
+our social frictions and triggers.
+
+All of this reminds me of a redditor's comment about h0p3's wiki:
+
+<<<
+[O]f course your voluminous wiki is 100% a facade in the sense that you've
+curated every entry, every word, the aesthetic, the diction and prose. The
+images and colors.
+
+They are all a performance, like our outfits and mannerisms. We are presenting
+ourselves as characters to the world.
+
+What you're not including is how similar to the rest of us you are. You too
+fart and ache like us.
+<<< a [[reply|https://old.reddit.com/r/FamiliesYouChoose/comments/cbnbpv/33yo_american_madman_pseudonymous_wiki_penpal/etj5wmd/]] to [[h0p3's comment|https://philosopher.life/#Le%20Reddit%20Log%3A%20Jibberjabber]]<<footnote "lnk" "where I wish I could link to a specific section of internal text">>
+
+which is fascinating to me because h0p3 is ''very explicit'' about including
+his farts and aches in his wiki! (For
+[[example|https://philosopher.life/#Smelting%20Muh%20Silly%20Farts%3A%20%F0%93%82%BA]]!)
+
+  And of course the worry in this quote has been brought up in [[@: hypertext
+  2020]]<<footnote "see" "> Are we modeling fictional characters or not? Does it
+  matter?">> and in the letters kicks & h0p3 have written, and almost certainly
+  elsewhere in our threads as well.<<footnote "cc" "please correct me if it's not
+  the same worry at all!">>
+
+From my perspective, this worry about "projecting a facade" or "putting on a
+mask" is a worry about our extended lack of phenomenological contact with the
+qualia of others. That is, in a face-to-face conversation I have the experience
+of seeing and participating in another person's outward expressions of emotion
+(laughing, frowning, body language, tone of voice). The true connection between
+the other's //internal state// and their //external emotions// aside, I still
+experience a sense of physical, embodied, and emotional feedback which leads me
+to believe I am experiencing a true expression of their internal state.
+
+  The internet, our websites, and our conversations over/through them completely
+  remove and de-sync this feedback, and that disconnect triggers our unconscious
+  to start worrying about whether we are actually receiving the truth of others'
+  internal states.<<footnote "ag" "this also gets brought into discussions of
+  trolling and online bullying -- a lack of feeling the consequences of one's
+  actions in a social context, etc.">>
+
+    @kickscondor / 2020-02-03
+
+    Yeah.<<footnote "k:9" "Meaning: so good.">> I’m not at all against video or
+    multimedia communication - I got into Snapchat for awhile. I just want to
+    find the strength in hypertext writing. It seems hasty to me to give up
+    after 20 years in (10 for most people). We have a lot to learn about
+    reading and writing online.<<footnote "k:10" "And may not be able to - so I
+    understand anyone who wants to bail on it.">>
+
+    I think there’s a yearning for the return of text. Video and audio now
+    dominate - and have serious issues, too. I think part of this comes from so
+    much of human history being tied up in text - perhaps this lends a ‘sacred’
+    feeling to text - but it’s also that it isn’t as tied up with physical
+    performance and is able to be ingested internally in a way. I’m seeing more
+    people writing about what they’re reading and challenging themselves to
+    read more - it’s still seen as a virtue in people’s minds.
+
+      @h0p3 / 2020-02-10 19:42 EST
+
+      I'm learning to appreciate connecting with lots of methods. I'm grateful
+      that you reason about the limits of this particular practice in a
+      semi-purist fashion with us. I still take writing to be critical to (and
+      arguably the hardest part of) relationships. Usually, I encounter the
+      opposite problem: why would anyone pay attention to what I have to say on
+      my wiki (and write back) when they can use more immediately gratifying
+      mediums with lower barriers to entry that are considered (by social norm)
+      to be more ephemeral (though, I find this word baffling), low-key, and
+      non-committal? I don't think most people who might read as closely as you
+      often do would want to remain so remote (not the right word, but I don't
+      know the right one) either, so you are somewhat like a control testing
+      group perspective to stand out against the other relationships I have
+      which are mixed.<<footnote "h:wam" "We have very few exceptions to
+      communicating over anything other than our sites.">> Sometimes I think we
+      are like two scientists mutualistically studying different problems
+      together over a series of tubes. What we have doesn't match the
+      consistent revelatory and self-modeling work which [[Sphygmus]] and
+      [[chameleon]] engage in; they are more strongly integrated into my daily
+      life. I adore that writing is the centerpiece for our
+      communication,<<footnote "h:foc" "In a way, we've overshot the golden
+      mean toward the much rarer side of vice. It's fascinating.">> but
+      diversity in expression is still valuable. My assumption is that if and
+      when you want to connect further, you will. Until then, I think it's good
+      to enjoy what we have.
+
+    I guess I feel like asking all of you: looking at self-modeling as a type
+    of permanent serialization format, where you’re attempting to prematurely
+    get frozen (cryogenically), what medium(s) would be your chosen form of
+    carbonite?
+    ---
+    @h0p3 / 2020-02-10 19:42 EST
+
+    I'm assuming the metaphor isn't meant to be taken too strongly here, and
+    you can correct me if I'm wrong about that.<<footnote "h:wat" "You know me,
+    I'm nitpicky: why should I think I am attempting to //prematurely// get
+    frozen? I agree I'm trying to learn how to create immutable aspects of
+    objects [[irwartfrr]], not prematurely though. Serialization^^tm^^ still
+    doesn't describe it correctly.">> The wiki is still my chosen medium, but
+    it captures, enables, or replicates a lot of mediums and methods. Long-form
+    writing is also still the pinnacle to me, although I have a harder time
+    knowing what doesn't count as long-form in here. I capture a lot of stories
+    and thoughts in this horcrux-pensieve. Sometimes, larger, evolving,
+    emerging, or meta stories about those timeslices arise.
+
+    If we are going sci-fi for mediums, at least for the foreseeable future,
+    it's not clear that ML will become energy-efficient enough to do anything
+    more than augment this medium; there are, however, possible mediums which
+    are significantly better for self-modeling. To be clear, however, I'm not
+    looking directly for those methods which are best at self-modeling given
+    unlimited resources without deontic constraints. One of my preferences is
+    to use a self-owned medium which the average joe can replicate to some
+    extent, [[WINTCIS]]. In terms of infrastructure, text is energy-efficient,
+    flexible, easier to compute over, cheap to store in decentralized fashions,
+    and something which even the poor kid in India could achieve on their
+    shitty Android phone (though, obviously, that is still severely
+    limited).<<footnote "h:sap" "It reminds me of //Apollo 13//, where we have
+    to ask what the folks up in space have available to them right now.">>
+
+  ---
+  @kickscondor / 2020-02-03
+
+  Yeah.<<footnote "k:7" "Meaning: you’re saying great stuff - my actual
+  response to your writing was to be dumbfounded by how solid it was and to
+  have no good reaction - which means I’ve had to patiently walk around the
+  neighborhood endlessly, attempting to summon a measly worthwhile thought.">>
+  I think this was a big part of my early letters to h0p3. Like: a total doubt
+  that written communication could work. But it turned out to be really fun and
+  rewarding - partially because it was so difficult and fraught with peril. So
+  I find myself wanting to avoid corporeality with you all because I want to
+  see how far this can go.<<footnote "k:8" "Hah, and maybe we’re at the end!">>
+  ---
+  @h0p3 / 2020-02-03 17:03 EST
+
+  I'm slow to say we connect to someone's qualia^^tm^^ directly,<<footnote
+  "h:sqd" "Even the conditions for experiencing qualia aren't something we can
+  be certain about.">> but we can probably get closer to it. It's an empirical
+  process, hence your reasonable doubt. We are blackboxes (even to ourselves to
+  some extent), and that trusting trust problem cannot be solved all the way
+  down. There's a [[faith]] in [[The Other]] problem which is never eliminated.
+
+  While I will agree it exists, I don't know what that perfect (for the
+  [[fff]]) solution entails, nor can I provide a perfect method for finding a
+  solution (even accounting for our limitations). Communicating in-person often
+  doesn't provide enough distance, and, likewise, communicating entirely
+  remotely is usually too much distance. I agree we are wired for in-person
+  encounters. There are significant privacy trade-offs here.
+
+  [[^encounters^]]
+
+  The best solutions I've found are mixing communications channels. You'll find
+  I aim to be formal or thorough in my letter-writing, but if you catch me at
+  3am in IMing, I'm looser and more likely to shoot-the-shit. There comes a
+  point in some of my relationships where voice is necessary; we simply can't
+  communicate fast enough in writing. But, even my in-person encounters are
+  fantastically augmented by having a wiki. I need them all to connect. Maybe
+  conditions for feeling authenticity in connection are likely to vary on per
+  person basis too.
+
+  The Discord server may help us build more bridges. You can also call me
+  whenever you want [[Sphygmus]]; I've never asked if I could call you because
+  I'm already a creeper, lol. [[Kicks]] knows he can whenever he wants to, and
+  [[chameleon]] has muh info now as well. I'm hoping to hear your voices (I
+  need to walk while I talk).
+
+So, does it matter whether we're receiving that feedback or not? How much is it
+hardwired into our bodies to expect certain qualia and feel off balance without
+it? What ways do we adjust for it over hypermedia? Could you make an argument
+for the rise of forms like video/snapchat/tiktok as one attempt to solve the
+qualia feedback problem?
+
+Breaking it down in this way also highlights the overlap between our offline
+and online interactions. A common worry online might be "is this person
+scamming or catfishing me?" but the same worry can very much be had offline,
+where, despite my unconscious belief of the feedback I'm receiving from another
+person, I might also worry if they're scamming me. Perhaps similar worries will
+have similar solutions? (And [[T42T]] enters the arena.)
+
+I don't have any specific conclusions or questions for individuals! I just
+wanted to highlight a dimension we hadn't directly discussed yet.
+---
+@h0p3 / 2020-02-03 17:03 EST
+
+^encounters^ My encounters with someone in-person do not leave me clean images
+that I can study later over the years; I'll only ever have fading and distorted
+impressions. It's true that this problem doesn't actually disappear when I
+have an external image to look at either, but some aspects are mitigated.
+Conversely, real-time communications do not give much compute time for
+cognitively finding collisions for deception.
+---
+@kickscondor / 2020-01-21
+
+I think the last thing I
+want to ask about touches on the ‘culture wars’ and the surrounding online
+warfare that we find ourselves in.
+
+  Specifically: the ingroup/outgroup dynamics
+  that plague the Internet, the trolls and activists that stoke the fire, and the
+  norms that are being established around how one should talk and write publicly.
+
+  This is already a topic in the discussion - the personal/private distinction
+  we’ve discussed indicates where we stand in defending ourselves, the topic of
+  doorways into our icebergs is somewhat about who to invite and how to set the
+  right note - and h0p3 just went into how the funnel can ‘bounce’ trolls and
+  vampires. (Which troubles me, because I like to meet trolls and vampires, too.
+  For sure I’d love to meet vampires! I’m not sure I want them to bounce as much
+  as to rattle around inside.)
+  ---
+  @chameleon / 2020-01-26 17:01 CST: [[chameleon]]
+
+  Part of the solipsistic nature of the wiki is that trolls don't really have
+  much of an effect on it. I don't visit that side of the internet and I'd
+  prefer to keep it that way. It's in public, but I could easily lock it down
+  by using basic authentication or cryptography or whatever.
+
+  I'd like to pre-emptively avoid lumping in "activists" with those types of
+  people. My very existence is political in today's hyperpartisan world, and
+  many of those "activists" are at least attempting to make the world a better
+  place, even if I don't agree with their approach ([[not by
+  half|https://wiki.waifu.haus/#Cancel%2FCallout%20Culture]]). The only
+  "activists" I'd shit on are those that appropriate the language of activism
+  to perpetuate bigotry, i.e. TERFs and other second-wavers.
+
+  Outside of just, y'know, ignoring them and focusing on my wiki, I exist in a
+  true cozyweb too. 2dl has a gatekeeping system, and beyond that I exist in
+  PMs and the like which (except with [[h0p3]]) generally stay ''private''
+  messages. I've thought about starting a group chat, or even private mailing
+  list. I appreciate the notion of staying under wraps. I love that "[[dark
+  forest|https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1]]"
+  analogy.
+  ---
+  @kickscondor / 2020-01-30
+
+  Yeah, ok, I need to fill that in a bit. I’m not making a judgement here. I’m
+  not putting them all in a ‘good’ or ‘bad’ category. There are good and bad
+  trolls, good and bad activists.<<footnote "k:4" "I will say that I imagine
+  that, like a craft or role, there are probably true experts and the rest of
+  us are just playing, probably destructively. I think that’s the thing about
+  trolls and activists. You have to have quality moves as well as real message.
+  That’s asking a lot! I think it’s this thought, of ‘minions’ that operate in
+  the ‘troll’ and ‘activist’ roles, that really make me think to group them
+  together.">> (Although sometimes I wonder if centuries from now we’ll look
+  back and see the pursuit for humor as being far more virtuous and generous
+  than the pursuit for political ground. Maybe slightly - eh probably
+  not.)<<footnote "k:5" "Also, could activists be more effective as trolls?
+  While [[throwing|https://www.youtube.com/watch?v=XM3nucc3XTc]] a shoe is
+  activism, I think I have to score it in the troll camp.">>
+
+  My grouping here is more a matter of directionality or something. Hypertext
+  2010 was an effort in isolation - or solipsism, as you say - impossible to
+  intrude upon (without hacking it) - so quite unsuitable for a troll or
+  activist, whose fuel requires targets, people to trigger or people to sway.
+  We don’t really have those directional targets. I mean I’m cool if people
+  join us, but it’s not essential.
+
+  In fact, I think, for me, the directionality is inverted. I’m here to read.
+  I’m not trying to own or gather up a bunch of
+  [[Winnie Lims|https://winnielim.org]]. I just want to
+  read what she’s got and see what happens.<<footnote "k:6" "Like it’s a
+  catalyst? Like it’s an unknown substance? What happens if I put THIS in the
+  tank?">> Maybe I want to be owned and gathered. No, that’s not it - I mean
+  perhaps in the moment of reading, I’m happy to be destroyed by it - but I’ve
+  got my own thing I’m doing, it’s just going to be less dramatic. The
+  directionality is just: I want to collect some of these cool stickers you’re
+  offering. It’s like the pleasant capitalism that happens at the level of
+  coins rather than cash.
+
+  It’s possible that ‘hypertext 2020’ continues to be hermetic, ‘staying under
+  wraps’. But, no, I think that while trying to articulate this directionality,
+  I want that inverted movement. Perhaps it’s like a vacuum tube where the
+  pressure got too hot. So now a hole broke and everything is getting sucked
+  inside. It’s a nice breeze. Time to break some glass.
+
+  Agreed on the mainstream - just on principle. My back is
+  [[turned|https://www.kickscondor.com/flooding-the-culture]].
+
+So this topic might kill the discussion - I feel like it’s more enjoyable to
+just allude to the conflict rather than to take it on - not that no one’s
+talking about it, it’s like everyone is talking about it all of the time. And I
+think it goes without saying that the shape of our ‘cozyweb’ is due to these
+forces.
+
+I guess my question is: to what degree do you feel the four of us are being
+shaped by the culture? Or are we attempting to reshape it in miniature? Because
+‘hypertext 2020’ isn’t really a complete discussion without some vision for how
+our smaller landscape could function. We have some good ideas for how the craft
+of hypertext might progress in 2020. How can it possibly work culturally?
+---
+@h0p3 / 2020-01-26 14:27 EST
+
+Those are big questions.
+
+Outgrouping cannot be escaped online or offine, it can only be shaped. There
+are no neutral parties or people devoid of ideology (even if a person may
+describe themselves as such). Even attempting to avoid or calmly stand outside
+of cultural war is an act of cultural warfare (though it may be the justified
+move in some cases).
+---
+@chameleon / 2020-01-26 17:01 CST: [[chameleon]]
+
+As much as possible, I want to negate, even escape, the ~culture~. I don't like
+the mainstream 2010s-now-2020s internet. I hate twitter, I hate facebook, I
+hate 99% of youtube, I hate instagram, and `<s>`i hate everyone that posts
+there.`</s>`
+
+If I had my way, we'd all forget the irony-poisoned, toxic,
+proprietary-software cultural shit-show of today and use the infrastructure we
+have to replicate and expand on what was good about the past. I want to see an
+internet which is just about weird, funny shit again. I want communities which
+are about sharing our love of something, not shitting on what someone else
+likes, or gatekeeping each other for having insufficiently patrician taste. I
+want an end to harassment; to reactionary bullying; to corporate shills and
+#influencers. I want the internet to be fun again.
+---
+@h0p3 / 2020-01-26 14:27 EST
+
+If I understand correctly, a cozyweb is a dialectical body designed with
+infrastructural outgrouping. To varying [[dok]], it tends to shield itself from
+the public and provides its users various control mechanisms for avoiding
+conflict with most of the world (which is not the claim this is always
+justified). Parts of what I'm engaged in here isn't toward the cozyweb because
+it's too public (vulnerable and compromised even with pseudonymity), however,
+the funnels do limit the probabilities of how the public might engage or react
+to it.
+
+Cultures are the dialectically ordered spheres of belief and desire of agents.
+Beyond curiosity, I don't think there is anything particularly special about
+them at first glance; lots of creatures have them. Ours are interesting because
+we can be responsible for them (which I wouldn't say about, for example, a bee
+culture).
+
+  Hence, I am a culturalist; not all cultures of persons are morally
+  equal. At the very least, some are permissible and some are not in various
+  circumstances.
+
+  I don't know the degree to which each of us are shaped by "the culture" (which
+  I presume to be the set of all cultures on the planet), and it's not easy to
+  pick out what consists in "shaping." Someone can hold a gun to my head and say
+  "jump or I shoot," and I'm still capable of choosing not to jump (even if I'm
+  not politically free to do otherwise); that kind of freedom is what allows us
+  to intervene upon how culture shapes us to some [[dok]]. We can react
+  differently and choose not to assent. Unless we're thinking about a causally
+  isolated agent with beliefs and desires (and perhaps not even then, depending
+  on the nature of the agent), culture always shapes an agent to some [[dok]].
+  Some influences are more direct or efficacious than others, and our
+  responsibilities vary.
+
+How does it work culturally (as a description) is a different matter than how
+it ought to work (as a prescription). Are the beliefs and desires of a culture
+justified? I have doubts that we'll have a practice which is justifiable and
+contagious at the same time. I am not convinced our work here will likely be of
+any serious consequence at large, so the attempt is a Hail Mary pass (one I'm
+obligated to attempt). There is work to do in improving the odds of success
+though.

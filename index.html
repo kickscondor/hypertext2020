@@ -1,0 +1,155 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>Hypertext 2020</title>
+    <link rel="stylesheet" href="ht2020.css?19">
+    <script src="https://cdn.jsdelivr.net/npm/umbrellajs"></script>
+    <script language="JavaScript">
+      var pageX = 0, pageY = 0
+      document.onmousemove = function (event) {
+        pageX = event.pageX
+        pageY = event.pageY
+      }
+      function expand(ele) {
+        u(ele.parentNode).toggleClass('show')
+        u('div.thread', ele.parentNode).scroll()
+      }
+      function tw(ele, name) {
+        let page = u('#twid-' + name)
+        page.toggleClass('show').
+          attr('style', 'top: ' + (pageY + 20) + 'px; left: ' + pageX + 'px')
+      }
+      function twc(ele) {
+        u(ele.parentNode).toggleClass('show')
+      }
+      function fn(ele, cls) {
+        u(ele.nextElementSibling).toggleClass(cls)
+      }
+      function linkback(id) {
+        u('#lbid-' + id).scroll()
+      }
+      function mainup() {
+        u('main').addClass('appear')
+        u('div.front').addClass('blow')
+      }
+    </script>
+  </head>
+  <body>
+    <header><div></div></header>
+    <div class="front">
+      <div class="logo"><img src="images/ht2021.png"></div>
+      <div class="thumb"><a href="javascript:;" onclick="mainup()"><img src="images/ht2021-thumb.png"></a></div>
+    </div>
+    <main>
+      <div class="by-weiweihsu-com">
+    <h1><img src="images/weiwei.png"> glitchyowl ·:·.*
+</h1>
+    <div class="hypertext">
+      <p>
+Before the beginning, we made a wish for a more expressive web.
+This is the tale of purple desert designs, silent HTML streams, MacPaint toolbars, Mario Kart-inspired JavaScript and our household gaudy drop shadows. This is Multiverse –– a constellation of internet corners, a micro-blogging network that belongs to us
+</p><p>
+The Web has converged on a color called 'gwalb' - gray with a little blue. Drained of all of its color, people become small circles with unstyled text next to them. Far from the World Wide Web we used to know! Over here, you can have your own walk-in closet of jackets for your voice. Depends on the dress code, you can get fancy for the party, or if you are feeling a little homesick, then put on the fuzzy PJs and tuck in.
+</p><div class="convo">
+      <a href="javascript:;" onclick="expand(this)" class="expand"></a>
+      <div class="thread" style="z-index: 1">
+        <div class="by-weiweihsu-com">
+    <h1><img src="images/weiwei.png"> glitchyowl ·:·.*
+</h1>
+    <div class="hypertext">
+      <p>
+Side note: you can also step aside to get on a slight tangent, nerd out on a rabbit hole, then go back to the original conversation. Whether it's a group conversation or a monologue, express them in hypertext and with multi-media (down the line) - and when
+you’re done, this becomes a hyperlinked blog post of some sort, with a beginning, an ending, and a title maybe - could be
+interesting. Ahh, I’m explaining too much - it is just an attempt to branch off
+on the <a class="tc-tiddlylink" href="javascript:;" onclick="tw(this, 'hyperconversation')">hyperconversation</a> game.
+</p>
+    </div>
+  </div><div class="by-kickscondor-com">
+    <h1><img src="images/chair.png"> kickscondor
+</h1>
+    <div class="hypertext">
+      <p>
+There are quite a few subtle things we are experimenting with. I know, I know, we've still got a long way to go, but that's the fun part. How cool is it that we get to mix in our personalities and have networked conversations.
+</p>
+    </div>
+  </div>
+      </div>
+    </div>
+    </div>
+  </div><div class="by-kickscondor-com">
+    <h1><img src="images/chair.png"> kickscondor
+</h1>
+    <div class="hypertext">
+      <p>
+Semi-translucent, fogged-up styles - achieved by dropping a light-colored shadow with a rather heavy blur on it - but leaving the box layer above the shadow almost clear - but with a subtle gradient to it. It’s like having a toolbox like Microsoft Paint as you create a corner for yourself on the internet. You can color your voice with your personality, rather than having it flattened out by technology giants. This is the kind of remixes that get us energised.
+</p><p>
+Sort of like a zine, a collage, a bunch of glued tweets and essays - how do I describe it? This is something in-between, It’s a place that celebrates different kinds of media, so, give us a few moon cycles, and let’s play with all these web materials together!
+</p>
+    </div>
+  </div><div class="by-weiweihsu-com">
+    <h1><img src="images/weiwei.png"> glitchyowl ·:·.*
+</h1>
+    <div class="hypertext">
+      <p>
+Whether it’s <a class="tc-tiddlylink-external" href="http://weiweihsu.com/2020-07-26/wheres-home" target="_blank">photo journaling</a>, documenting your project, sharing a mini life update, or something we haven’t thought of, it’s a place for you to weave together words, ideas, and feelings.  Above and beyond all of these, it is perhaps a place for us to grow confidence in our voice and discover the willingness to and the wonder of carrying that voice out into the world.
+</p><p>
+Or, if you are feeling a little social, you can also blog chat with each other ~ Think of blogchatting as an activity like dancing, playing music, playing with basketball – it’s enjoyable and rewarding on your own, but enhanced by the companion of others.
+</p>
+    </div>
+  </div><div id="twid-T42T" class="wikipage">
+    <a class="close" href="javascript:;" onclick="twc(this)">x</a>
+    <div class="hypertext">
+      <p>
+t42t := <strong>t</strong>it <strong>for two t</strong>ats
+</p><p>
+See <a class="tc-tiddlylink-external" href="https://philosopher.life/#T42T" target="_blank">here</a>.
+</p>
+    </div>
+  </div><div id="twid-hyperconversation" class="wikipage">
+    <a class="close" href="javascript:;" onclick="twc(this)">x</a>
+    <div class="hypertext">
+      <p>
+hyperconversation := a conversation integratively built upon explicit referential linking to at least one hyperobject
+</p><p>
+See <a class="tc-tiddlylink-external" href="https://philosopher.life/#hyperconversation" target="_blank">here</a>.
+</p>
+    </div>
+  </div><div id="twid-PSM" class="wikipage">
+    <a class="close" href="javascript:;" onclick="twc(this)">x</a>
+    <div class="hypertext">
+      <p>
+PSM := <strong>P</strong>ublic <strong>S</strong>elf-<strong>M</strong>odel(er/ers/ing)
+</p><p>
+See <a class="tc-tiddlylink-external" href="https://philosopher.life/#PSM" target="_blank">here</a>.
+</p>
+    </div>
+  </div><div id="twid-Development-Levels" class="wikipage">
+    <a class="close" href="javascript:;" onclick="twc(this)">x</a>
+    <div class="hypertext">
+      <p>
+Development Levels (from chame's wiki)
+</p><p>
+<strong>no level</strong> - for meta-pages, scratchpads and random stuff.
+</p><p>
+<strong>level zero</strong> - article is <em>perfect</em>.
+</p><p>
+<strong>level one</strong> - done, but may be tweaked in minor ways.
+</p><p>
+<strong>level two</strong> - mostly done, final draft, structure is sound.
+</p><p>
+<strong>level three</strong> - in progress, half-finished, structure can be done.
+</p><p>
+<strong>level four</strong> - barely started, a skeleton or sketch.
+</p><p>
+<strong>level five</strong> - not yet started, just a title or blurb.
+</p><p>
+Original URL is <a class="tc-tiddlylink-external" href="https://wiki.waifu.haus/#Development Levels" target="_blank">here</a>.
+</p>
+    </div>
+  </div>
+      <div class="by-macro"><p>END OF CHAT</p></div>
+    </main>
+    <footer><div></div></footer>
+    <div id="dis-tunes"></div>
+  </body>
+</html>

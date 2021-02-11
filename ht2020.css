@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background: #180322;
   font-size: 1.9ch;
 }
 
@@ -23,7 +23,8 @@ div.blow {
   transition: width 2s, height 2s, opacity 2s;
 }
 
-main, div.thread {
+main,
+div.thread {
   width: 70ch;
   padding: 2ch;
 }
@@ -88,23 +89,23 @@ div.thread > div:nth-child(5n) {
   margin-left: -18px;
   margin-right: 18px;
 }
-main > div:nth-child(5n+1),
-div.thread > div:nth-child(5n+1) {
+main > div:nth-child(5n + 1),
+div.thread > div:nth-child(5n + 1) {
   margin-left: 18px;
   margin-right: -18px;
 }
-main > div:nth-child(5n+2),
-div.thread > div:nth-child(5n+2) {
+main > div:nth-child(5n + 2),
+div.thread > div:nth-child(5n + 2) {
   margin-left: -32px;
   margin-right: 32px;
 }
-main > div:nth-child(5n+3),
-div.thread > div:nth-child(5n+3) {
+main > div:nth-child(5n + 3),
+div.thread > div:nth-child(5n + 3) {
   margin-left: -8px;
   margin-right: 8px;
 }
-main > div:nth-child(5n+4),
-div.thread > div:nth-child(5n+4) {
+main > div:nth-child(5n + 4),
+div.thread > div:nth-child(5n + 4) {
   margin-left: -38px;
   margin-right: 38px;
 }
@@ -210,7 +211,7 @@ div.convo.show > a.expand:before {
   padding: 8px 0;
 }
 .by-kickscondor-com img.emoji {
-  margin: 0 .05em 0 .1em;
+  margin: 0 0.05em 0 0.1em;
   vertical-align: -0.1em;
 }
 .by-kickscondor-com sup,
@@ -225,7 +226,12 @@ div.convo.show > a.expand:before {
 }
 .by-kickscondor-com s {
   text-decoration: none;
-  background-image: linear-gradient(transparent 7px, #316 7px, #316 13px, transparent 13px);
+  background-image: linear-gradient(
+    transparent 7px,
+    #316 7px,
+    #316 13px,
+    transparent 13px
+  );
 }
 
 .by-kickscondor-com p {
@@ -243,13 +249,20 @@ div.convo.show > a.expand:before {
   margin: 0 0 0 20px;
 }
 .by-kickscondor-com > blockquote {
-  font-size: 16px;
-  background-color: #fcfff4;
-  padding: 14px;
-  margin: 20px;
-  border: solid 1px #ccb;
-  box-shadow: 4px 3px 0 0 #ccb;
+  background: hsla(231, 8%, 10%, 1);
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-right: 5px;
+  border-left: 5px solid rgba(255, 255, 255, 0.5);
+  margin: 0 0 0 25px;
+  padding-left: 10px;
+  quotes: "\201C""\201D""\2018""\2019";
 }
+
+.by-kickscondor-com blockquote p {
+  margin: 16px 0;
+}
+
 .by-kickscondor-com p.rt,
 .by-kickscondor-com a.rt,
 .by-kickscondor-com img.rt,
@@ -276,12 +289,123 @@ div.convo.show > a.expand:before {
   margin: 0 auto;
 }
 
+.by-weiweihsu-com {
+  font-family: "Courier New", serif;
+  background-color: #341144;
+  color: #f7e0ff;
+  border: solid 1px #cf11ff;
+  box-shadow: 5px 4px 0 0 #cf11ff;
+}
+
+.by-weiweihsu-com a {
+  color: #ccf;
+}
+
+.by-weiweihsu-com a:hover {
+  color: #ff6;
+}
+
+.by-weiweihsu-com > h1 {
+  font-size: 20px;
+  color: #ca86ff;
+  padding: 0;
+  font-weight: italic;
+  margin: 20px;
+  text-shadow: 1px 1px #cf11ff;
+}
+
+.by-weiweihsu-com > h1 > img {
+  width: 32px;
+  border-radius: 1px;
+  margin-left: -35px;
+  margin-bottom: -8px;
+  margin-right: 8px;
+}
+
+.by-weiweihsu-com > hr {
+  border: none;
+  background: url("/images/pixelb.png") repeat-x;
+  width: 100%;
+  height: 8px;
+  padding: 8px 0;
+}
+.by-weiweihsu-com img.emoji {
+  margin: 0 0.05em 0 0.1em;
+  vertical-align: -0.1em;
+}
+.by-weiweihsu-com sup,
+.by-weiweihsu-com sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+  color: #f5aaaa;
+}
+.by-weiweihsu-com sub {
+  top: 0.4em;
+}
+.by-weiweihsu-com s {
+  text-decoration: none;
+  background-image: linear-gradient(
+    transparent 7px,
+    #316 7px,
+    #316 13px,
+    transparent 13px
+  );
+}
+
+.by-weiweihsu-com p {
+  line-height: 140%;
+  margin: 0 0 20px 0;
+}
+.by-weiweihsu-com p:last-of-type {
+  margin-bottom: 0;
+}
+.by-weiweihsu-com ul {
+  padding: 4px;
+  margin: 0 0 20px 0;
+}
+.by-weiweihsu-com li {
+  margin: 0 0 0 20px;
+}
+.by-weiweihsu-com > blockquote {
+  font-size: 16px;
+  background-color: #fcfff4;
+  padding: 14px;
+  margin: 20px;
+  border: solid 1px #ccb;
+  box-shadow: 4px 3px 0 0 #ccb;
+}
+.by-weiweihsu-com p.rt,
+.by-weiweihsu-com a.rt,
+.by-weiweihsu-com img.rt,
+.by-weiweihsu-com p.rt100 {
+  float: right;
+  margin: 0 0 6px 16px;
+}
+.by-weiweihsu-com p.rt100 {
+  width: 100px;
+  height: 100px;
+}
+.by-weiweihsu-com p.lt,
+.by-weiweihsu-com a.lt,
+.by-weiweihsu-com img.lt {
+  float: left;
+  margin: 0 16px 6px 0;
+}
+.by-weiweihsu-com p.ct {
+  text-align: center;
+}
+.by-weiweihsu-com a.ct > img,
+.by-weiweihsu-com img.ct {
+  display: block;
+  margin: 0 auto;
+}
+
 /* my cursive font - since there isn't one on most platforms */
 /* https://www.dafont.com/ballet-harmony.font */
 @font-face {
-  font-family: BalletHarmony; 
-  src: local("Ballet Harmony"),
-       url('/fonts/balletharmony.ttf');
+  font-family: BalletHarmony;
+  src: local("Ballet Harmony"), url("/fonts/balletharmony.ttf");
 }
 
 .tc-btn-invisible {
@@ -294,8 +418,8 @@ div.convo.show > a.expand:before {
 
 /* styles for specific people */
 @font-face {
-  font-family: 'Zing';
-  src: url('/fonts/zing.woff2') format('woff2');
+  font-family: "Zing";
+  src: url("/fonts/zing.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-stretch: extra-condensed;
@@ -307,7 +431,7 @@ div.convo.show > a.expand:before {
   background-color: black !important;
   border-radius: 2px !important;
   color: white !important;
-  font-family: 'Zing', sans-serif !important;
+  font-family: "Zing", sans-serif !important;
 }
 .by-philosopher-life > h1 {
   background: black;
@@ -325,7 +449,7 @@ div.convo.show > a.expand:before {
   color: #66ff66 !important;
 }
 .by-philosopher-life a {
-  color: #02A1D6 !important;
+  color: #02a1d6 !important;
 }
 .by-philosopher-life pre {
   font-size: 10px;
@@ -336,41 +460,51 @@ div.convo.show > a.expand:before {
 
 /* latin-ext */
 @font-face {
-  font-family: 'Asap';
+  font-family: "Asap";
   font-style: normal;
   font-weight: 400;
-  src: local('Asap Regular'), local('Asap-Regular'), url(/fonts/asap-ext-400.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  src: local("Asap Regular"), local("Asap-Regular"),
+    url(/fonts/asap-ext-400.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
 @font-face {
-  font-family: 'Asap';
+  font-family: "Asap";
   font-style: normal;
   font-weight: 400;
-  src: local('Asap Regular'), local('Asap-Regular'), url(/fonts/asap-400.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  src: local("Asap Regular"), local("Asap-Regular"),
+    url(/fonts/asap-400.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Fira Sans Condensed';
+  font-family: "Fira Sans Condensed";
   font-style: italic;
   font-weight: 400;
-  src: local('Fira Sans Condensed Italic'), local('FiraSansCondensed-Italic'), url(/fonts/fira-sans-ext-400.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  src: local("Fira Sans Condensed Italic"), local("FiraSansCondensed-Italic"),
+    url(/fonts/fira-sans-ext-400.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
 @font-face {
-  font-family: 'Fira Sans Condensed';
+  font-family: "Fira Sans Condensed";
   font-style: italic;
   font-weight: 400;
-  src: local('Fira Sans Condensed Italic'), local('FiraSansCondensed-Italic'), url(/fonts/fira-sans-400.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  src: local("Fira Sans Condensed Italic"), local("FiraSansCondensed-Italic"),
+    url(/fonts/fira-sans-400.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
 }
 .by-sphygm-us {
-  border: solid 1px #2A2B30 !important;
-  background-color: #2A2B30 !important;
-  font-family: 'Asap', sans-serif !important;
-  color: rgba(255,255,255,0.87) !important;
+  border: solid 1px #2a2b30 !important;
+  background-color: #2a2b30 !important;
+  font-family: "Asap", sans-serif !important;
+  color: rgba(255, 255, 255, 0.87) !important;
   box-shadow: 5px 4px 0 0 #b37aff;
 }
 .by-sphygm-us .hypertext {
@@ -381,13 +515,13 @@ div.convo.show > a.expand:before {
 .by-sphygm-us > h4,
 .by-sphygm-us > h5,
 .by-sphygm-us > h5 {
-  font-family: 'Fira Sans Condensed', sans-serif, 'Segoe UI Symbol';
+  font-family: "Fira Sans Condensed", sans-serif, "Segoe UI Symbol";
   font-weight: 300;
 }
 .by-sphygm-us > h1 {
   background-color: #2f3137;
   color: #b37aff;
-	margin: 0;
+  margin: 0;
   padding: 8px;
 }
 .by-sphygm-us > h1 > img {
@@ -402,7 +536,7 @@ div.convo.show > a.expand:before {
   padding-top: 1px;
   padding-bottom: 1px;
   padding-right: 5px;
-  border-left: 5px solid rgba(255,255,255,0.5);
+  border-left: 5px solid rgba(255, 255, 255, 0.5);
   margin: 0 0 0 25px;
   padding-left: 10px;
   quotes: "\201C""\201D""\2018""\2019";
@@ -413,9 +547,9 @@ div.convo.show > a.expand:before {
 .by-sphygm-us cite {
   display: block;
   background: hsla(231, 9%, 5%, 1);
-  margin-left: -.5em;
+  margin-left: -0.5em;
   margin-right: -5px;
-  padding: .3em .5em;
+  padding: 0.3em 0.5em;
 }
 .by-sphygm-us > hr {
   border-color: #ededed;
@@ -430,9 +564,10 @@ div.convo.show > a.expand:before {
 
 .by-wiki-waifu-haus {
   border: 1px solid #fff;
-  background-color: rgba(0,0,0,1) !important;
+  background-color: rgba(0, 0, 0, 1) !important;
   color: #fff !important;
-  font-family: "Go",-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: "Go", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
   box-shadow: 5px 4px 0 0 #ccc;
 }
 .by-wiki-waifu-haus .hypertext {
@@ -472,7 +607,8 @@ div.convo.show > a.expand:before {
   white-space: pre-wrap;
   padding: 0 3px 2px;
   border-radius: 3px;
-  font-family: "Go Mono","SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+  font-family: "Go Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo,
+    Courier, monospace;
 }
 
 .by-macro {
@@ -490,19 +626,19 @@ div.convo.show > a.expand:before {
   position: absolute;
   width: 45ch;
   display: none;
-  color: #DFA;
+  color: #dfa;
   background: black;
   z-index: 999;
-  box-shadow: 8px 6px 0 0 #DFA;
+  box-shadow: 8px 6px 0 0 #dfa;
   padding: 6px;
 }
 
 .fn {
-  border: solid 1px #DFA;
+  border: solid 1px #dfa;
 }
 
 .wikipage {
-  border: solid 4px #F09;
+  border: solid 4px #f09;
 }
 
 .fn.show,
@@ -515,10 +651,10 @@ div.convo.show > a.expand:before {
   display: block;
   float: right;
   padding: 0px 4px;
-  border: solid 2px #F09;
+  border: solid 2px #f09;
   background: black;
   font-family: monospace;
-  color: #F09;
+  color: #f09;
   text-decoration: none;
   font-size: 14px;
   margin-right: 12px;
@@ -526,5 +662,5 @@ div.convo.show > a.expand:before {
 }
 
 .wikipage .hypertext a {
-  color: #FCE;
+  color: #fce;
 }
