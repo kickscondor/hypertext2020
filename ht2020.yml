@@ -5,7 +5,7 @@ speakers:
   '@sphygmus':
     domain: sphygm.us
     header: |
-      <img src="/images/sphygmus.png"> sphygmus
+      <img src="images/sphygmus.png"> sphygmus
   '@h0p3':
     domain: philosopher.life
     header: |
@@ -16,11 +16,11 @@ speakers:
   '@kickscondor':
     domain: kickscondor.com
     header: |
-      <img src="/images/chair.png"> kickscondor
+      <img src="images/chair.png"> kickscondor
   '@chameleon':
     domain: wiki.waifu.haus
     header: |
-      <img src="/images/chame.svg"> chameleon
+      <img src="images/chame.svg"> chameleon
 
 pages:
   T42T: |
