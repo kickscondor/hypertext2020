@@ -246,6 +246,7 @@ div.convo.show > a.expand:before {
   margin: 8px 12px 8px 32px;
 }
 
+/*
 .by-kickscondor-com {
   font-family: "Times New Roman", serif;
   background-color: #412;
@@ -364,6 +365,62 @@ div.convo.show > a.expand:before {
   display: block;
   margin: 0 auto;
 }
+*/
+
+.by-kickscondor-com .box-content > .title > .title-fill > div {
+	background-color: #EEEEEEFF;
+}
+
+.by-kickscondor-com .box-content > .title > .title-content {
+	border-color: #201C1BFF;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.by-kickscondor-com .box-content > .title > .title-shadow > div {
+	background-color: #B8A6FE;
+}
+
+.by-kickscondor-com .box-content > .title > .title-highlight {
+	display: none;
+}
+
+.by-kickscondor-com .box-content > .title > .title-block > h3 {
+  font-family: "Times New Roman";
+  color: #201C1BFF
+}
+
+.by-kickscondor-com  > .box-fill > div {
+	background-image: linear-gradient(0deg, #EBDAAF 0%, #00FFFF1A 100%);
+}
+
+.by-kickscondor-com  > .box-content {
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.by-kickscondor-com  > .box-shadow > div {
+  filter: blur(4px);
+}
+
+.by-kickscondor-com  > .box-shadow > div {
+	background-color: #EC65C7;
+}
+
+.by-kickscondor-com  > .box-highlight > div {
+  filter: blur(4px);
+}
+
+.by-kickscondor-com  > .box-highlight > div {
+	background-color: #99F6F7;
+}
+
+.by-kickscondor-com > .box-content > .box-block > p {
+	font-family: "Maitree";
+	color: #000000FF
+}
+    
 
 /*
 .by-weiweihsu-com {
@@ -480,50 +537,50 @@ div.convo.show > a.expand:before {
 
 */
 
-.by-weiweihsu-com .title-fill > div {
+.by-weiweihsu-com > .box-content > .title > .title-fill > div {
 	background-color: #D1E0F4;
 }
 
-.by-weiweihsu-com .title-content {
+.by-weiweihsu-com > .box-content > .title >  .title-content {
 	border-color: #3E0EFF;
 	border-style: solid;
 	border-width: 1px;
 }
 
 
-.by-weiweihsu-com .title-shadow > div {
+.by-weiweihsu-com > .box-content > .title >  .title-shadow > div {
 	background-color: #B8A6FE;
 }
 
-.by-weiweihsu-com .title-highlight {
+.by-weiweihsu-com > .box-content > .title >  .title-highlight {
 	display: none;
 }
 
-.by-weiweihsu-com .title-block > h3 {
+.by-weiweihsu-com > .box-content > .title >  .title-block > h3 {
 font-family: "Contrail One";
 color: #3400FF
 }
 
-.by-weiweihsu-com .box-fill > div {
+.by-weiweihsu-com > .box-fill > div {
 	background-image: linear-gradient(45deg, #EDEDFF00 0%, #D1EAF0 100%);
 }
 
-.by-weiweihsu-com .box-content {
+.by-weiweihsu-com > .box-content {
 	border-color: #3E0EFF;
 	border-style: solid;
 	border-width: 1px;
 }
 
 
-.by-weiweihsu-com .box-shadow > div {
+.by-weiweihsu-com > .box-shadow > div {
 	background-color: #B8A6FE;
 }
 
-.by-weiweihsu-com .box-highlight {
+.by-weiweihsu-com > .box-highlight {
 	display: none;
 }
 
-.by-weiweihsu-com .box-block > p {
+.by-weiweihsu-com > .box-content > .box-block > p {
 	font-family: "Contrail One";
 	color: #3111B1
 }
@@ -634,6 +691,42 @@ color: #3400FF
   font-weight: 400;
   font-display: swap;
   src: url('/fonts/Contrail_One-400-latin1.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/Maitree-400-thai1.woff2') format('woff2');
+  unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/Maitree-400-vietnamese2.woff2') format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/Maitree-400-latin-ext3.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/Maitree-400-latin4.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 .by-sphygm-us {
