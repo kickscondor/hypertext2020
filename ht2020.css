@@ -377,12 +377,20 @@ div.convo.show > a.expand:before {
 	border-width: 1px;
 }
 
+.by-kickscondor-com .box-content > .title > .title-shadow {
+  filter: blur(4px);
+}
+
 .by-kickscondor-com .box-content > .title > .title-shadow > div {
-	background-color: #B8A6FE;
+  background-color: #EC65C7;
 }
 
 .by-kickscondor-com .box-content > .title > .title-highlight {
-	display: none;
+  filter: blur(4px);
+}
+        
+.by-kickscondor-com .box-content > .title > .title-highlight > div {
+  background-color: #99F6F7;
 }
 
 .by-kickscondor-com .box-content > .title > .title-block > h3 {
