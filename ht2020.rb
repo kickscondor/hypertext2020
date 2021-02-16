@@ -100,10 +100,23 @@ end
 
 def div(msg, level = 1)
   author = CONF['speakers'][msg[:author]]
-  %{<div class="by-#{author['domain'].gsub(/\W+/, '-')}">
-    <h1>#{author['header']}</h1>
-    <div class="hypertext">
-      #{msg[:blocks].map { |block| para(block, author['domain'], level) }.join}
+  %{<div class="box box_purple_screen by-#{author['domain'].gsub(/\W+/, '-')}">
+    <div class="box-shadow"><div></div></div>
+    <div class="box-highlight"><div></div></div>
+    <div class="box-fill"><div></div></div>
+    <div class="box-content">
+      <div class="title">
+        <div class="title-shadow"><div></div></div>
+        <div class="title-highlight"><div></div></div>
+        <div class="title-fill"><div></div></div>
+        <div class="title-content title-block">
+					<h3 class="content">#{author['header']}</h1>
+        </div>
+      </div>
+      <!-- The frame contents (text or comic log) -->
+      <div class="box-block hypertext">
+				#{msg[:blocks].map { |block| para(block, author['domain'], level) }.join}
+      </div>
     </div>
   </div>}
 end

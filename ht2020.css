@@ -170,6 +170,82 @@ div.convo.show > a.expand:before {
   content: "<<";
 }
 
+/* multiverse basic box style */
+.box {
+  position: relative;
+  font-size: 1.4rem;
+}
+.box .title {
+  display: inline-block;
+  position: relative;
+  margin-left: -24px;
+}
+.box .title h3 {
+  margin: 0px;
+  padding: 2px 8px;
+  font-size: 1.2rem;
+}
+.box div.box-fill,
+.box div.box-fill > div,
+.box div.box-shadow,
+.box div.box-shadow > div,
+.box div.box-highlight,
+.box div.box-highlight > div,
+.box div.title-shadow,
+.box div.title-shadow > div,
+.box div.title-highlight,
+.box div.title-highlight > div,
+.box div.title-fill,
+.box div.title-fill > div {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s;
+}
+.box div.box-fill,
+.box div.title-fill {
+  overflow: hidden;
+}
+.box div.box-shadow,
+.box div.title-shadow {
+  top: 4px;
+  left: 4px;
+}
+.box div.title-shadow {
+  clip: rect(0px, 13px, 400px, 0px);
+}
+.box div.title-highlight {
+  clip: rect(0px, 21px, 400px, 0px);
+}
+.box div.box-highlight,
+.box div.title-highlight {
+  top: -4px;
+  left: -4px;
+}
+.box div.box-content,
+.box div.title-content {
+  position: relative;
+  margin: 0;
+  padding: 6px;
+}
+.box div.title-content {
+  padding: 6px 10px;
+}
+.box div.title-content img {
+  margin-right: 6px;
+  vertical-align: middle;
+  width: 24px;
+}
+.box div.box-content {
+  font-size: 1rem;
+  line-height: 140%;
+}
+.box div.box-content > .box-block {
+  margin: 8px 12px 8px 32px;
+}
+
 .by-kickscondor-com {
   font-family: "Times New Roman", serif;
   background-color: #412;
@@ -289,6 +365,7 @@ div.convo.show > a.expand:before {
   margin: 0 auto;
 }
 
+/*
 .by-weiweihsu-com {
   font-family: "Courier New", serif;
   background-color: #341144;
@@ -401,6 +478,56 @@ div.convo.show > a.expand:before {
   margin: 0 auto;
 }
 
+*/
+
+.by-weiweihsu-com .title-fill > div {
+	background-color: #D1E0F4;
+}
+
+.by-weiweihsu-com .title-content {
+	border-color: #3E0EFF;
+	border-style: solid;
+	border-width: 1px;
+}
+
+
+.by-weiweihsu-com .title-shadow > div {
+	background-color: #B8A6FE;
+}
+
+.by-weiweihsu-com .title-highlight {
+	display: none;
+}
+
+.by-weiweihsu-com .title-block > h3 {
+font-family: "Contrail One";
+color: #3400FF
+}
+
+.by-weiweihsu-com .box-fill > div {
+	background-image: linear-gradient(45deg, #EDEDFF00 0%, #D1EAF0 100%);
+}
+
+.by-weiweihsu-com .box-content {
+	border-color: #3E0EFF;
+	border-style: solid;
+	border-width: 1px;
+}
+
+
+.by-weiweihsu-com .box-shadow > div {
+	background-color: #B8A6FE;
+}
+
+.by-weiweihsu-com .box-highlight {
+	display: none;
+}
+
+.by-weiweihsu-com .box-block > p {
+	font-family: "Contrail One";
+	color: #3111B1
+}
+
 /* my cursive font - since there isn't one on most platforms */
 /* https://www.dafont.com/ballet-harmony.font */
 @font-face {
@@ -499,6 +626,15 @@ div.convo.show > a.expand:before {
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
     U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
     U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Contrail One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/Contrail_One-400-latin1.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 .by-sphygm-us {
   border: solid 1px #2a2b30 !important;
