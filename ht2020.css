@@ -378,12 +378,20 @@ div.convo.show > a.expand:before {
   border-width: 1px;
 }
 
+.by-kickscondor-com .box-content > .title > .title-shadow {
+  filter: blur(4px);
+}
+
 .by-kickscondor-com .box-content > .title > .title-shadow > div {
-  background-color: #b8a6fe;
+  background-color: #ec65c7;
 }
 
 .by-kickscondor-com .box-content > .title > .title-highlight {
-  display: none;
+  filter: blur(4px);
+}
+
+.by-kickscondor-com .box-content > .title > .title-highlight > div {
+  background-color: #99f6f7;
 }
 
 .by-kickscondor-com .box-content > .title > .title-block > h3 {
